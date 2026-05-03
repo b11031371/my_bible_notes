@@ -3,92 +3,211 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>每日讀經筆記 Daily Bible Notes</title>
+  <title>每日讀經筆記</title>
   <style>
+    *, *::before, *::after { box-sizing: border-box; }
+
     body {
-      font-family: "PingFang TC", "Heiti TC", Georgia, serif;
-      max-width: 720px;
-      margin: 40px auto;
-      padding: 0 20px;
-      background: #faf9f7;
+      font-family: "PingFang TC", "Heiti TC", -apple-system, Georgia, serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f3ef;
       color: #2c2c2c;
+      min-height: 100vh;
     }
-    h1 {
-      font-size: 1.6em;
-      border-bottom: 2px solid #b8860b;
-      padding-bottom: 10px;
+
+    header {
+      background: linear-gradient(135deg, #4a3000 0%, #7a5200 100%);
+      color: #fff;
+      padding: 40px 24px 32px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0 0 6px;
+      font-size: 1.8em;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+
+    header p {
+      margin: 0;
+      font-size: 0.88em;
+      opacity: 0.75;
+      letter-spacing: 0.03em;
+    }
+
+    .badge {
+      display: inline-block;
+      margin-top: 14px;
+      background: rgba(255,255,255,0.15);
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 20px;
+      padding: 4px 14px;
+      font-size: 0.8em;
+      opacity: 0.9;
+    }
+
+    main {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 32px 20px 60px;
+    }
+
+    .month-section {
+      margin-bottom: 32px;
+    }
+
+    .month-heading {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      margin: 0 0 12px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #c8a84b;
+    }
+
+    .month-zh {
+      font-size: 1.1em;
+      font-weight: 600;
       color: #5a3e00;
     }
-    p.subtitle {
-      color: #777;
-      font-size: 0.9em;
-      margin-top: -10px;
+
+    .month-en {
+      font-size: 0.8em;
+      color: #9a7a40;
+      font-weight: normal;
     }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 24px;
+
+    .entries {
+      background: #fff;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
     }
-    th {
-      text-align: left;
-      padding: 10px 12px;
+
+    .entry {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 13px 18px;
+      border-bottom: 1px solid #f0ebe0;
+      transition: background 0.15s;
+    }
+
+    .entry:last-child {
+      border-bottom: none;
+    }
+
+    .entry:hover {
+      background: #fdf8ee;
+    }
+
+    .entry-date {
+      font-size: 0.95em;
+      color: #3a2800;
+      font-weight: 500;
+    }
+
+    .entry-date-en {
+      color: #9a7a40;
+      font-size: 0.85em;
+      font-weight: normal;
+    }
+
+    .entry-links {
+      display: flex;
+      gap: 10px;
+    }
+
+    .entry-links a {
+      display: inline-block;
+      padding: 5px 14px;
+      border-radius: 6px;
+      font-size: 0.82em;
+      text-decoration: none;
+      font-weight: 500;
+      transition: opacity 0.15s;
+    }
+
+    .entry-links a:first-child {
       background: #5a3e00;
       color: #fff;
-      font-weight: normal;
-      font-size: 0.9em;
     }
-    td {
-      padding: 10px 12px;
-      border-bottom: 1px solid #e5e0d8;
+
+    .entry-links a:last-child {
+      background: #e8dfc8;
+      color: #5a3e00;
     }
-    tr:hover td {
-      background: #f0ebe0;
+
+    .entry-links a:hover {
+      opacity: 0.8;
     }
-    a {
-      color: #8b6914;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
+
+    footer {
+      text-align: center;
+      font-size: 0.78em;
+      color: #bbb;
+      padding: 20px;
     }
   </style>
 </head>
 <body>
-  <h1>📖 每日讀經筆記 Daily Bible Notes</h1>
-  <p class="subtitle">點擊日期旁的連結，在瀏覽器內直接閱讀 PDF。</p>
-  <table>
-    <thead>
-      <tr>
-        <th>日期 Date</th>
-        <th>繁體中文</th>
-        <th>English</th>
-      </tr>
-    </thead>
-    <tbody>
-    <tr>
-      <td>2026年05月03日</td>
-      <td><a href="https://b11031371.github.io/my_bible_notes/2026-05-03/note_zh.pdf" target="_blank">中文版 📖</a></td>
-      <td><a href="https://b11031371.github.io/my_bible_notes/2026-05-03/note_en.pdf" target="_blank">English 📖</a></td>
-    </tr>
+  <header>
+    <h1>📖 每日讀經筆記</h1>
+    <p>Daily Bible Notes</p>
+    <div class="badge">共 4 篇 · 4 notes</div>
+  </header>
+  <main>
 
-    <tr>
-      <td>2026年05月02日</td>
-      <td><a href="https://b11031371.github.io/my_bible_notes/2026-05-02/note_zh.pdf" target="_blank">中文版 📖</a></td>
-      <td><a href="https://b11031371.github.io/my_bible_notes/2026-05-02/note_en.pdf" target="_blank">English 📖</a></td>
-    </tr>
+      <section class="month-section">
+        <h2 class="month-heading">
+          <span class="month-zh">2026年 四月</span>
+          <span class="month-en">April 2026</span>
+        </h2>
+        <div class="entries">
+          <div class="entry">
+            <span class="entry-date">30日 <span class="entry-date-en">/ Apr 30</span></span>
+            <span class="entry-links">
+              <a href="https://b11031371.github.io/my_bible_notes/2026-04-30/note_zh.pdf" target="_blank">中文</a>
+              <a href="https://b11031371.github.io/my_bible_notes/2026-04-30/note_en.pdf" target="_blank">English</a>
+            </span>
+          </div>
+        </div>
+      </section>
 
-    <tr>
-      <td>2026年05月01日</td>
-      <td><a href="https://b11031371.github.io/my_bible_notes/2026-05-01/note_zh.pdf" target="_blank">中文版 📖</a></td>
-      <td><a href="https://b11031371.github.io/my_bible_notes/2026-05-01/note_en.pdf" target="_blank">English 📖</a></td>
-    </tr>
+      <section class="month-section">
+        <h2 class="month-heading">
+          <span class="month-zh">2026年 五月</span>
+          <span class="month-en">May 2026</span>
+        </h2>
+        <div class="entries">
+          <div class="entry">
+            <span class="entry-date">1日 <span class="entry-date-en">/ May 1</span></span>
+            <span class="entry-links">
+              <a href="https://b11031371.github.io/my_bible_notes/2026-05-01/note_zh.pdf" target="_blank">中文</a>
+              <a href="https://b11031371.github.io/my_bible_notes/2026-05-01/note_en.pdf" target="_blank">English</a>
+            </span>
+          </div>
 
-    <tr>
-      <td>2026年04月30日</td>
-      <td><a href="https://b11031371.github.io/my_bible_notes/2026-04-30/note_zh.pdf" target="_blank">中文版 📖</a></td>
-      <td><a href="https://b11031371.github.io/my_bible_notes/2026-04-30/note_en.pdf" target="_blank">English 📖</a></td>
-    </tr>
-    </tbody>
-  </table>
+          <div class="entry">
+            <span class="entry-date">2日 <span class="entry-date-en">/ May 2</span></span>
+            <span class="entry-links">
+              <a href="https://b11031371.github.io/my_bible_notes/2026-05-02/note_zh.pdf" target="_blank">中文</a>
+              <a href="https://b11031371.github.io/my_bible_notes/2026-05-02/note_en.pdf" target="_blank">English</a>
+            </span>
+          </div>
+
+          <div class="entry">
+            <span class="entry-date">3日 <span class="entry-date-en">/ May 3</span></span>
+            <span class="entry-links">
+              <a href="https://b11031371.github.io/my_bible_notes/2026-05-03/note_zh.pdf" target="_blank">中文</a>
+              <a href="https://b11031371.github.io/my_bible_notes/2026-05-03/note_en.pdf" target="_blank">English</a>
+            </span>
+          </div>
+        </div>
+      </section>
+  </main>
+  <footer>點擊連結，在瀏覽器內直接閱讀 PDF</footer>
 </body>
 </html>
