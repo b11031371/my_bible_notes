@@ -1,0 +1,59 @@
+name: Generate PDF Notes
+  
+  on:
+    push:
+      paths:
+        - '*/note_zh.md'
+
+  jobs:
+    generate-pdf:
+      runs-on: ubuntu-latest
+
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+
+        - name: Setup Python
+          uses: actions/setup-python@v5
+          with:
+            python-version: '3.11'
+
+        - name: Find date folder
+          id: find-date
+          run: |
+            DATE=$(git diff-tree --no-commit-id -r --name-only ${{ github.sha }} \
+              | grep -oP '^\d{4}-\d{2}-\d{2}(?=/)' | head -1)
+            if [ -z "$DATE" ]; then
+              echo "Could not find date folder in commit"
+              exit 1
+            fi
+            echo "date=$DATE" >> $GITHUB_OUTPUT
+            echo "Found date: $DATE"
+
+        - name: Generate PDFs
+          run: |
+            DATE="${{ steps.find-date.outputs.date }}"
+            python3 scripts/md_to_pdf.py "${DATE}/note_zh.md" "${DATE}/note_zh.pdf"
+            python3 scripts/md_to_pdf.py "${DATE}/note_en.md" "${DATE}/note_en.pdf"
+
+        - name: Commit and push PDFs
+          run: |
+            DATE="${{ steps.find-date.outputs.date }}"
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add "${DATE}/note_zh.pdf" "${DATE}/note_en.pdf"
+            git commit -m "[skip ci] Add PDFs for ${DATE}"
+            git push
+  
+        - name: Update index
+          env:
+            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_OWNER: ${{ github.repository_owner }}
+            GITHUB_REPO: ${{ github.event.repository.name }}
+          run: python3 scripts/update_index.py
+
+        - name: Revalidate app cache
+          env:
+            REVALIDATE_URL: https://my-daily-bible-app.vercel.app/api/revalidate
+            REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}
+          run: python3 scripts/revalidate.py
