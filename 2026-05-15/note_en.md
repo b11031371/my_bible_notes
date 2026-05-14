@@ -1,11 +1,11 @@
-# 📖 Daily Bible Note
+# Daily Bible Note
 **Date:** May 15, 2026
 
 ---
 
 ## I. Today's Reading
 
-**NKJV:** 1 Corinthians 3:1–15
+**NKJV:** 1 Corinthians 3:1-15
 
 **1** And I, brethren, could not speak to you as to spiritual people but as to carnal, as to babes in Christ.
 
@@ -41,39 +41,37 @@
 
 ## II. Key Summary
 
-- Spiritual growth doesn't happen automatically — Paul told the Corinthians they were still spiritual babies who could only handle milk. Faith grows only when we actively engage, not just when we accumulate information
-- The church's divisions started with putting people in God's place — "I'm of Paul," "I'm of Apollos." Paul's answer: the teachers are just servants; God is the one who makes things grow
-- Everyone builds on the foundation of Jesus Christ, but the materials are each person's choice — gold, silver, precious stones versus wood, hay, straw. Eventually, the fire will reveal what was real all along
+- The Corinthians' envy and quarrels over which leader to follow exposed that they were still living by the world's logic, not the Spirit's
+- Paul and Apollos were merely God's instruments — the real power behind any growth belongs to God alone
+- Jesus Christ is the only foundation that endures; every choice and work built on anything else will eventually be tested and exposed
 
 ---
 
 ## III. Passage Analysis
 
-### Knowing and Growing Are Not the Same Thing
+### Topic 1: Envy and Division Are Symptoms of Spiritual Immaturity
 
-> "Men may have much doctrinal knowledge, yet be mere beginners in the life of faith." [1]
+> "Contentions and quarrels about religion are sad evidences of carnality." [1]
 
-You can know a lot about the Bible and still not have grown much spiritually. The Corinthians had knowledge — but their envy and taking sides proved that the knowledge hadn't changed how they actually lived. Real growth shows up in behavior, not just in what you can recite.
+The Corinthians had received the gospel, but their habit of picking sides revealed they were still running on the world's operating system: comparing, competing, taking sides. Spiritual growth shows not in how much we know, but in how we respond when things get heated — and whether we reach for envy or peace.
 
----
+### Topic 2: Christ Himself Is the Foundation — Not Just Doctrine About Him
 
-### What Are You Building on the Foundation?
+> "It is no doctrine about Christ, but Christ Himself that is laid as the foundation." [2]
 
-> "There can be only one foundation in the spiritual building — namely, the personal Jesus Christ... there may be an immense variety in the materials with which those who come after may build up the superstructure." [2]
-
-The foundation is fixed — Jesus, and no one else. But what gets built on top is entirely each person's responsibility. Gold, silver, and precious stones represent faith that goes deep and holds up under pressure; wood, hay, and straw represent things that look fine on the surface but have no real substance. The fire isn't meant to scare you — it just reveals, in the end, what was actually real.
+Paul's point in verse 11 is precise: there is no other viable foundation. The contrast between gold, silver, precious stones and wood, hay, straw isn't about material value — it's about what endures under pressure. If Christ is truly your foundation, what you build on Him is real; if not, even impressive-looking structures will be burned away.
 
 ---
 
 ## IV. Reflection Question
 
-Is there a habit — jealousy, dishonesty, how you treat certain people — that has stayed exactly the same, even after years of believing?
+Is there a group or friendship in your life where belonging depends on agreeing with the "right" person or taking the "right" side?
 
-If so, that might be where the knowing hasn't become growing yet. That's not a verdict — it's exactly where God is still at work.
+If that need to take sides is actually a sign of something deeper, what do you think God might be pointing out to you?
 
 ---
 
 ## References
 
-[1] BibleHub.com, Matthew Henry's Concise Commentary, https://www.biblehub.com/commentaries/1_corinthians/3-1.htm
-[2] BibleHub.com, Ellicott's Commentary, https://www.biblehub.com/commentaries/1_corinthians/3-10.htm
+[1] BibleHub.com, Matthew Henry Commentary, https://www.biblehub.com/commentaries/1_corinthians/3-1.htm
+[2] BibleHub.com, Cambridge Bible for Schools and Colleges, https://www.biblehub.com/commentaries/1_corinthians/3-11.htm
