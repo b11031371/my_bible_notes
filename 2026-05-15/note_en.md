@@ -42,7 +42,7 @@
 ## II. Key Summary
 
 - The Corinthians' envy and quarrels over which leader to follow exposed that they were still living by the world's logic, not the Spirit's
-- Paul and Apollos were merely God's instruments — the real power behind any growth belongs to God alone
+- Paul and Apollos were simply channels God worked through — the real power behind any growth belongs to God alone
 - Jesus Christ is the only foundation that endures; every choice and work built on anything else will eventually be tested and exposed
 
 ---
@@ -59,15 +59,15 @@ The Corinthians had received the gospel, but their habit of picking sides reveal
 
 > "It is no doctrine about Christ, but Christ Himself that is laid as the foundation." [2]
 
-Paul's point in verse 11 is precise: there is no other viable foundation. The contrast between gold, silver, precious stones and wood, hay, straw isn't about material value — it's about what endures under pressure. If Christ is truly your foundation, what you build on Him is real; if not, even impressive-looking structures will be burned away.
+Paul's point in verse 11 is precise: there is no other viable foundation. Gold, silver, precious stones versus wood, hay, straw — the contrast isn't about which materials cost more. It's asking: does what you're putting your energy into actually hold up when tested? If Christ is the foundation, what's built on Him stands. If not, even the impressive stuff burns.
 
 ---
 
 ## IV. Reflection Question
 
-Is there a group or friendship in your life where belonging depends on agreeing with the "right" person or taking the "right" side?
+Have you ever found yourself letting someone you admire shape your standards — where their opinions quietly became your measuring stick?
 
-If that need to take sides is actually a sign of something deeper, what do you think God might be pointing out to you?
+If your foundation is a person, it will eventually shake. If it's Christ, it will stand.
 
 ---
 
