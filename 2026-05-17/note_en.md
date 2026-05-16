@@ -27,39 +27,39 @@
 
 ## II. Key Summary
 
-- A steward's one job is faithfulness — not fame, not impressive results, just being reliable and honest with what the Master entrusted to you.
-- Paul couldn't care less about people's opinions of him. He knew the only verdict that actually counts comes from God, not from the crowd.
-- "What do you have that you did not receive?" — one question that cuts through every reason we use to feel superior to others.
+- Paul calls himself a *hyperetas* — an under-rower, not a captain. The job isn't to be admired; it's to take direction, stay faithful, and answer only to the One at the helm.
+- The crowd's opinion of you, or even your own opinion of yourself, is not the final verdict. The Lord judges — and He waits until He comes to reveal it.
+- "What do you have that you did not receive?" — talent, opportunity, ability. None of it started with you. That doesn't cancel your effort, but it pulls the ground out from under pride.
 
 ---
 
 ## III. Passage Analysis
 
-### A Servant, Not a Star
+### The Under-Rower, Not the Captain
 
 > "Ministers of Christ — not heads of the Church in whom ye are severally to glory... the headship belongs to Christ alone; we are but His servants." [1]
 
-The Corinthians were forming factions — "I follow Paul," "I follow Apollos" — treating ministry like a team sport. Paul shuts it down: stewards own nothing. Their job is to faithfully pass on what belongs to the Master, full stop.
+The Corinthians were picking sides — "I'm with Paul," "I'm with Apollos" — turning ministry into a popularity contest. Paul corrects them with one word: *hyperetas*, a galley rower. The rower doesn't set the course, doesn't ask why, just rows where the captain steers and reports to no one else. That's what faithfulness looks like — not standing out, but showing up and doing the work.
 
 ---
 
-### Everything You Have Was Given to You
+### You Have Nothing You Didn't Receive
 
-> "All we have, or are, or do, that is good, is owing to the free and rich grace of God." [2]
+> "Everything we have has come from God, so there is no reason for pride." [2]
 
-Paul's question in verse 7 hits hard: "What do you have that you did not receive?" Your talent, your opportunities, your capacity to work hard — none of it started with you. That doesn't erase your effort, but it does make it pretty hard to look down on someone else.
+Paul fires three questions at the Corinthians in verse 7, each one dismantling a different excuse for pride: Who made you stand out? What do you have that wasn't given to you? If it was given, why act like you earned it? Your aptitude, your upbringing, your opportunities — none of it originated with you. That's not meant to shrink your effort, but it makes it very hard to look down on someone who simply didn't get the same head start.
 
 ---
 
 ## IV. Reflection Question
 
-Think of something you're genuinely good at — is there anyone you've quietly looked down on because they're not as good at it?
+Is there someone you've quietly looked down on because you're better at something than they are?
 
-If that ability was actually given to you, not built from nothing — does that shift anything about how you see them?
+If that advantage was actually given to you — not something you built from nothing — does that change how you see it?
 
 ---
 
 ## References
 
 [1] BibleHub.com, Jamieson-Fausset-Brown Commentary, https://www.biblehub.com/commentaries/1_corinthians/4-1.htm
-[2] BibleHub.com, Matthew Henry's Concise Commentary, https://www.biblehub.com/commentaries/1_corinthians/4-7.htm
+[2] Enduring Word, David Guzik Commentary, https://enduringword.com/bible-commentary/1-corinthians-4/
