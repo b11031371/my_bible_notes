@@ -57,9 +57,9 @@ Eating, making choices, how you treat people — none of these are automatically
 
 ## IV. Reflection Question
 
-Have you ever done something that felt completely fine to you, but you could clearly tell it made someone else uncomfortable?
+Have you ever kept doing something you had every right to do — watching a show, texting, playing a game — while someone nearby was clearly being left out? Did you notice, and what did you do?
 
-If you had stepped back in that moment — do you think that would have been weakness, or something deeper at work?
+If the real question isn't "can I do this?" but "is this good for them?" — would your answer to that moment change?
 
 ---
 
