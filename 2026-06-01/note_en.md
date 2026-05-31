@@ -1,4 +1,4 @@
-# 📖 Daily Bible Note
+# Daily Bible Note
 **Date:** June 1, 2026
 
 ---
