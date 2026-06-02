@@ -27,9 +27,9 @@
 
 ## II. Key Summary
 
-- "Unworthy manner" is about *how* you come to the table — the attitude you bring — not whether you're personally good enough; self-examination is preparation, not a filter.
-- The Corinthians' concrete failure: some stuffed themselves while others went hungry at the shared meal — this is what "not discerning the Lord's body" actually means.
-- The "judgment" Paul mentions is God's corrective discipline — like a parent redirecting a child — meant to restore, not condemn.
+- Paul warns that eating the bread or drinking the cup in an unworthy manner makes a person guilty of sinning against the body and blood of the Lord, and calls each believer to examine themselves before eating (vv. 27–28).
+- Paul connects the failure to discern the Lord's body at Corinth to real consequences already present in the congregation — weakness, sickness, and even death (vv. 29–30).
+- Paul gives specific instructions for the gathering: wait for one another; if hungry, eat at home first, so the assembly does not become an occasion for judgment (vv. 33–34).
 
 ---
 
@@ -51,9 +51,9 @@ The Corinthians' problem wasn't a wrong theology about bread and wine — it was
 
 ## IV. Reflection Question
 
-Think of a time when you were part of a group — a class lunch, a club hangout, a church small group — and you got wrapped up in your own circle, and only afterward realized someone nearby was on the edge, not quite included. Did you notice in the moment? What did you do?
+Think of a time before something important — a hard conversation you needed to have, a moment you knew you couldn't mess up — when you realized the problem wasn't that you lacked the skills, but that your head and heart just weren't in the right place. Did you stop to sort yourself out first, or did you push through anyway?
 
-If your first instinct had been "is that person okay?" instead of "did I do anything wrong?" — do you think you would have acted differently?
+Paul says "examine yourself, and *so* eat" — the examination leads *to* the moment, not away from it. If preparing your heart is different from just preparing your skills, what would that have looked like for you in that situation?
 
 ---
 
