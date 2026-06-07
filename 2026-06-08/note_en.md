@@ -47,9 +47,9 @@ Paul says "now I know in part" — and that's not a faith problem, it's just the
 
 ## IV. Reflection Question
 
-Have you ever worked really hard at something — a grade, a sport, a skill — something that made you feel like you had your footing at school, and then it stopped working? When that moment came, what or who was still around?
+When you feel like you're not capable enough at something, do you find yourself longing to be loved and accepted?
 
-Paul says love is the only thing that doesn't end. If that's true, are the things you're currently counting on to hold you up actually built to last?
+Paul says every one of us only knows and can do so much — in the areas where you have more to offer, have you ever loved and accepted someone else that way?
 
 ---
 
