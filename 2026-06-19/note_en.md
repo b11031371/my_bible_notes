@@ -1,5 +1,5 @@
 # Daily Bible Note
-**Date:** June 19, 2026
+**Date:** 2026-06-19
 
 ---
 
@@ -35,37 +35,39 @@
 
 ## II. Key Summary
 
-- Paul closes with four commands — watch, stand fast in the faith, be brave, be strong — calling the Corinthians to stay alert and firm in their faith (v. 13)
-- Paul immediately follows with "let all that you do be done with love," making love the foundation and motivation behind every action (v. 14)
-- Paul writes the closing in his own hand, pronouncing a solemn warning against those who do not love the Lord, then ending with a blessing of grace and love (vv. 22–24)
+- Paul closes with four commands — "Watch, stand fast in the faith, be brave, be strong" — all in military language, calling believers to stay alert and hold firm in their faith.
+- Paul immediately adds a fifth command: "Let all that you do be done with love," making love the governing principle behind all the strength and vigilance just described.
+- In his personal closing, Paul says "If anyone does not love the Lord Jesus Christ, let him be accursed" — making love for the Lord the ultimate test of genuine faith — and ends the entire letter with blessing and love.
 
 ---
 
 ## III. Passage Analysis
 
-### Standing Firm Like a Soldier — Without Losing Gentleness
+### Watch, Stand, Be Strong — Hold Your Ground, Not Launch an Attack
 
-> "Watch ye — watch, and be continually on your guard, lest you be surprised by your enemies… Stand fast in the faith — keep in your ranks; be determined to keep your ranks unbroken… Quit yourselves like men — when you are attacked, do not flinch; maintain your ground; resist; press forward; strike home." [1]
+> "The commands ring sharp and short like pistol-shots — the first four are entirely martial in tone, like sending soldiers into battle." [1]
 
-Paul strings four military commands together, calling the Corinthians to hold their ground against false teaching, temptation, and anything that would pull them away from what's true. "Standing firm" here isn't about being aggressive or combative — it's about not being easily shaken on the things that actually matter.
+Paul uses military language to describe what faith looks like in practice: watch (don't let your guard down), stand fast (hold your position, don't break ranks), be brave (don't flinch when attacked), be strong (reinforce each other, keep the line). This isn't a call to go picking fights — it's a call to know where you stand and refuse to be moved from it.
 
-### Strength Means Nothing Without Love
+---
 
-> "All the watching, all the standing fast, all the bravery, and all the strength the Corinthian Christians might show meant nothing without love. They were called to do all those things in a meek, humble spirit of love." [2]
+### Strength and Gentleness Aren't Opposites — Paul Puts Them in the Same Breath
 
-Right after four tough commands, Paul adds one more: do everything in love. The order matters. Strength and courage are real Christian virtues, but love is what gives them meaning. You can hold your ground and stay firm, yet still do it all out of genuine care for the people around you.
+> "The strongest type of human character is the gentlest and most loving. Strength and tenderness are united in Christ." [2]
+
+Right after "be strong," Paul says "let all that you do be done with love." This isn't a pivot — it's a completion. Strength without love is just stubbornness. Love is what gives strength its purpose and direction, and tells you what's worth holding on to.
 
 ---
 
 ## IV. Reflection Question
 
-Think of something you did for someone else — but honestly, you weren't fully into it. Did it feel like love, or more like obligation?
+Have you ever faced a situation where you knew you should speak up or stand firm, but were afraid of hurting someone, and didn't know how to do both at once?
 
-Paul says "let all that you do be done with love" — love isn't just a feeling, it's the motivation that makes what you do real and worth something.
+Paul says "be strong" and "let all that you do be done with love" — for him, these two things don't cancel each other out. They're meant to exist in the same person at the same time.
 
 ---
 
 ## References
 
-[1] BibleHub.com, Adam Clarke's Commentary, https://www.biblehub.com/commentaries/1_corinthians/16-13.htm
-[2] Enduring Word, David Guzik Commentary on 1 Corinthians 16, https://enduringword.com/bible-commentary/1-corinthians-16/
+[1] BibleHub.com, MacLaren's Expositions, https://www.biblehub.com/commentaries/1_corinthians/16-13.htm
+[2] BibleHub.com, MacLaren's Expositions, https://www.biblehub.com/commentaries/1_corinthians/16-14.htm
