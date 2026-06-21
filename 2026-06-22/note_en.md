@@ -1,5 +1,5 @@
 # Daily Bible Note
-**Date:** June 22, 2026
+**Date:** 2026-06-22
 
 ---
 
@@ -7,11 +7,11 @@
 
 **NKJV:** Jonah 1:17–2:10
 
-**1:17** Now the Lord had prepared a great fish to swallow Jonah. And Jonah was in the belly of the fish three days and three nights.
+**1:17** Now the LORD had prepared a great fish to swallow Jonah. And Jonah was in the belly of the fish three days and three nights.
 
-**2:1** Then Jonah prayed to the Lord his God from the fish's belly.
+**2:1** Then Jonah prayed to the LORD his God from the fish's belly.
 
-**2:2** And he said: "I cried out to the Lord because of my affliction, And He answered me. Out of the belly of Sheol I cried, And You heard my voice.
+**2:2** And he said: "I cried out to the LORD because of my affliction, And He answered me. Out of the belly of Sheol I cried, And You heard my voice.
 
 **2:3** For You cast me into the deep, Into the heart of the seas, And the floods surrounded me; All Your billows and Your waves passed over me.
 
@@ -19,51 +19,53 @@
 
 **2:5** The waters surrounded me, even to my soul; The deep closed around me; Weeds were wrapped around my head.
 
-**2:6** I went down to the moorings of the mountains; The earth with its bars closed behind me forever; Yet You have brought up my life from the pit, O Lord, my God.
+**2:6** I went down to the moorings of the mountains; The earth with its bars closed behind me forever; Yet You have brought up my life from the pit, O LORD, my God.
 
-**2:7** When my soul fainted within me, I remembered the Lord; And my prayer went up to You, Into Your holy temple.
+**2:7** When my soul fainted within me, I remembered the LORD; And my prayer went up to You, Into Your holy temple.
 
 **2:8** Those who regard worthless idols Forsake their own Mercy.
 
-**2:9** But I will sacrifice to You With the voice of thanksgiving; I will pay what I have vowed. Salvation is of the Lord."
+**2:9** But I will sacrifice to You With the voice of thanksgiving; I will pay what I have vowed. Salvation is of the LORD."
 
-**2:10** So the Lord spoke to the fish, and it vomited Jonah onto dry land.
+**2:10** So the LORD spoke to the fish, and it vomited Jonah onto dry land.
 
 ---
 
 ## II. Key Summary
 
-- The Lord prepared a great fish to swallow Jonah, and Jonah spent three days and three nights in its belly.
-- Jonah prayed to God from inside the fish, describing his cry from the depths and God's faithful response in hearing his voice.
-- Jonah's prayer ends with the declaration "Salvation is of the Lord," a renewed vow to obey, and God's command for the fish to release him onto dry land.
+- The LORD *prepared* a great fish to swallow Jonah — the fish was provision, not punishment, preserving Jonah's life for three days and three nights in the heart of the sea (1:17).
+- In his prayer, Jonah acknowledges that it was God who cast him into the deep (2:3), yet even at his lowest he declares: "Yet I will look again toward Your holy temple" (2:4).
+- Jonah's prayer peaks with "Salvation is of the LORD" (2:9) — a confession and a vow — and immediately, God commands the fish and Jonah is delivered onto dry land (2:10).
 
 ---
 
 ## III. Passage Analysis
 
-### Even in the Darkest Place, the Heart Can Still Turn to God
+### The Fish Was a Lifeboat, Not a Punishment
 
-> "Jonah's greatest pain was not the calamity, but his separation from God — his feeling that he was cast out of Your sight. Still, he was determined — even in the belly of a fish — to turn his heart towards God and His temple." [1]
+> "Though God disciplines His people, He does not abandon them forever. Though He threw the disobedient Jonah into the sea, He also prepared a great fish as Jonah's hiding place. This shows that God's grace is the only path that keeps a sinful soul from death." [1]
 
-Jonah prayed where there was no light, no way out, and no guarantee he'd survive. Yet he opened his mouth — and God heard him. This passage shows us that calling out to God doesn't require favorable conditions. Even from the most hopeless place, prayer still reaches Him.
+The word *prepared* in 1:17 is the signal — this wasn't coincidence. The same God who allowed Jonah to be thrown overboard also made sure he didn't sink. Discipline and protection arrived at the same moment. God's correction doesn't mean God has finished with you.
 
-### "Salvation Is of the Lord" — Giving Thanks Before the Answer Comes
+---
 
-> "Jonah demonstrates undisturbed faith in God's mercy while in the fish's belly, secure that divine deliverance would follow — offering praise before any way out appeared." [2]
+### Remembering God When Your Soul Faints
 
-Jonah's prayer reads more like a song of gratitude than a desperate plea. He declared "Salvation is of the Lord" before he was rescued — because he knew God's character. That kind of steadiness isn't wishful thinking; it's grounded in knowing who God is.
+> "Even in his deepest suffering, Jonah thought of the one Person who could help him — the only one who could save him from death. Only God could rescue him… And so in his prayer he remembered the LORD; this was the heart of everything he prayed." [2]
+
+Verse 7 is the turning point of the whole chapter: "When my soul fainted within me, I remembered the LORD." Jonah didn't wait until things improved to pray — he turned back in the exact moment they were worst. And the prayer didn't stay in the dark with him; it "went up into Your holy temple."
 
 ---
 
 ## IV. Reflection Question
 
-Has there been a time when you felt like everything was falling apart and there was no way forward — did you reach out to God, or did you go quiet?
+Is there something you've messed up that's made you feel too far gone to face God — so you've just stayed quiet?
 
-Jonah cried out from the darkest place imaginable, and God heard him. This passage is saying that your situation is also within range of what God can hear.
+Jonah, in the darkest place imaginable, said "Yet I will look again toward Your holy temple." The turn happened at the lowest point, not after things got better.
 
 ---
 
 ## References
 
-[1] Enduring Word, David Guzik, https://enduringword.com/bible-commentary/jonah-2/
-[2] BibleHub.com, Barnes' Notes / Keil and Delitzsch, https://biblehub.com/commentaries/jonah/2-1.htm
+[1] 華人基督徒查經資料網站（.org），聖經精讀本，https://www.ccbiblestudy.org/Old%20Testament/32Jonah/32GT01.htm
+[2] 華人基督徒查經資料網站（.org），唐佑之《天道聖經註釋──約拿書》，https://www.ccbiblestudy.org/Old%20Testament/32Jonah/32GT02.htm
