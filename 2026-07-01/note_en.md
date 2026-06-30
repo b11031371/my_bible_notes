@@ -79,9 +79,9 @@ The Hebrew word *hesed* in verse 1 — translated "mercy" or "steadfast love" �
 
 ## IV. Reflection Question
 
-Have you ever been at a low point — lost, stuck, or completely worn down — but kept it to yourself instead of asking anyone for help?
+Is there anything in your life right now that makes it hard to say "thank you" to God?
 
-In Psalm 107, every person's situation is different, but the turning point is always the same: they cried out to the Lord, and He answered.
+In Psalm 107, every person's situation is extremely difficult — but in the end, they are all called to do the same thing: give thanks to the Lord, for His mercy endures forever.
 
 ---
 
