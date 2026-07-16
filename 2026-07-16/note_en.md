@@ -7,11 +7,27 @@
 
 **NKJV:** Ezekiel 25:1-11
 
-**1** The word of the Lord came to me, saying, **2** "Son of man, set your face against the Ammonites, and prophesy against them. **3** Say to the Ammonites, 'Hear the word of the Lord God! Thus says the Lord God: "Because you said, 'Aha!' against My sanctuary when it was profaned, and against the land of Israel when it was desolate, and against the house of Judah when they went into captivity, **4** indeed, therefore, I will deliver you as a possession to the men of the East, and they shall set their encampments among you and make their dwellings among you; they shall eat your fruit, and they shall drink your milk. **5** And I will make Rabbah a stable for camels and Ammon a resting place for flocks. Then you shall know that I am the Lord."
+**1** The word of the Lord came to me, saying,
 
-**6** 'For thus says the Lord God: "Because you clapped your hands, stamped your feet, and rejoiced in heart with all your disdain for the land of Israel, **7** indeed, therefore, I will stretch out My hand against you, and give you as plunder to the nations; I will cut you off from the peoples, and I will cause you to perish from the countries; I will destroy you, and you shall know that I am the Lord."
+**2** "Son of man, set your face against the Ammonites, and prophesy against them.
 
-**8** 'Thus says the Lord God: "Because Moab and Seir say, 'Look! The house of Judah is like all the nations,' **9** therefore, behold, I will clear the territory of Moab of cities, of the cities on its frontier, the glory of the country, Beth Jeshimoth, Baal Meon, and Kirjathaim. **10** To the men of the East I will give it as a possession, together with the Ammonites, that the Ammonites may not be remembered among the nations. **11** And I will execute judgments upon Moab, and they shall know that I am the Lord."
+**3** Say to the Ammonites, 'Hear the word of the Lord God! Thus says the Lord God: "Because you said, 'Aha!' against My sanctuary when it was profaned, and against the land of Israel when it was desolate, and against the house of Judah when they went into captivity,
+
+**4** indeed, therefore, I will deliver you as a possession to the men of the East, and they shall set their encampments among you and make their dwellings among you; they shall eat your fruit, and they shall drink your milk.
+
+**5** And I will make Rabbah a stable for camels and Ammon a resting place for flocks. Then you shall know that I am the Lord."
+
+**6** 'For thus says the Lord God: "Because you clapped your hands, stamped your feet, and rejoiced in heart with all your disdain for the land of Israel,
+
+**7** indeed, therefore, I will stretch out My hand against you, and give you as plunder to the nations; I will cut you off from the peoples, and I will cause you to perish from the countries; I will destroy you, and you shall know that I am the Lord."
+
+**8** 'Thus says the Lord God: "Because Moab and Seir say, 'Look! The house of Judah is like all the nations,'
+
+**9** therefore, behold, I will clear the territory of Moab of cities, of the cities on its frontier, the glory of the country, Beth Jeshimoth, Baal Meon, and Kirjathaim.
+
+**10** To the men of the East I will give it as a possession, together with the Ammonites, that the Ammonites may not be remembered among the nations.
+
+**11** And I will execute judgments upon Moab, and they shall know that I am the Lord."
 
 ---
 
