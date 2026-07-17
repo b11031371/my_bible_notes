@@ -79,9 +79,9 @@ The name "Tyre" actually means "rock." The city thought it was so solid and so w
 
 ## IV. Reflection Question
 
-When someone you don't like fails a test, embarrasses themselves, or gets called out by a teacher, do you feel a little bit of secret satisfaction?
+When someone you're not too fond of runs into bad luck—something falls apart for them, people laugh at them, or they lose something they had—what's the first thought that pops into your head?
 
-Tyre's downfall started the moment it watched Jerusalem collapse and thought, "Now it's my turn to cash in"—and God says He really does care about how we react to other people's failures.
+Tyre's downfall started the moment it watched Jerusalem collapse and thought, "Now it's my turn to cash in"—and God really does care about what actually rises up in us the moment someone else fails.
 
 ---
 
