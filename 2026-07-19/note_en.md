@@ -79,19 +79,19 @@ Tyre's pride didn't come from nowhere—she really was beautiful and really was 
 
 ---
 
-### When People Become Merchandise
+### This Is Actually a Lamentation
 
-> Among Tyre's merchandise is a tragic line: they trafficked in human slaves, treating people like mere goods—a practice that violated God's law and the dignity of those made in His image. [2]
+> In elegies it is usual to insert encomiums of those whose fall we lament; the prophet, accordingly, praises Tyre for all that she had that was praiseworthy. [2]
 
-On that glittering inventory, "human lives" sits in the same row as bronze, horses, and spices. Where usefulness and price are the only measures that count, people end up with a price tag too.
+So the cedar, the embroidered sail, the gems and gold are all part of a eulogy. While Tyre still sat at her peak with the cargo still on board, God had already told the prophet to sing her funeral song.
 
 ---
 
 ## IV. Reflection Question
 
-What do you most often point to as proof that you're doing okay?
+Do you feel like you own a lot? Does having it make you proud?
 
-Tyre said, "I am perfect in beauty"—yet not one plank, sail, or sailor on that ship was something she made herself.
+Tyre had the goods of the whole world and said, "I am perfect in beauty," yet God declared judgment on her and told the prophet to sing her a lamentation.
 
 ---
 
@@ -99,4 +99,4 @@ Tyre said, "I am perfect in beauty"—yet not one plank, sail, or sailor on that
 
 [1] Chinese Christian Bible Study Site, *Precept Bible Study Commentary*, https://www.ccbiblestudy.org/Old%20Testament/26Ezek/26GT27.htm
 
-[2] Enduring Word, David Guzik's Commentary on Ezekiel, https://enduringword.com/bible-commentary/ezekiel-27/
+[2] Blue Letter Bible, Matthew Henry's Commentary on the Whole Bible, https://www.blueletterbible.org/comm/mhc/Eze/Eze_027.cfm
