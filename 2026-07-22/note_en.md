@@ -25,9 +25,9 @@
 
 ## II. Key Summary
 
-- God tells Ezekiel to prophesy against Sidon, declaring "I am against you," and saying He will be glorified and shown as holy in her midst so that people will know He is the Lord.
-- The passage spells out what the judgment looks like: pestilence sent into Sidon, blood in her streets, the wounded falling in her midst, and the sword coming against her on every side.
-- God then says that those around Israel who despise her will no longer be a pricking brier or a painful thorn; He will gather the scattered house of Israel back to the land He gave to Jacob, where they will build houses, plant vineyards, and dwell safely.
+- God tells Ezekiel to prophesy against Sidon, declaring, "I am against you."
+- The judgment is pestilence, blood in her streets, and the sword against her on every side.
+- God promises to gather the scattered house of Israel back to Jacob's land, where they will build houses, plant vineyards, and dwell safely.
 
 ---
 
@@ -51,9 +51,9 @@ Israel was stuck far from home with nothing, and God told them they would one da
 
 ## IV. Reflection Question
 
-Is there a person or a situation right now that you have to carefully work around every day — something that leaves you drained just thinking about it?
+Where does what you know about God actually come from?
 
-In this passage God says the "pricking brier" will one day be gone, and His people will build houses and plant vineyards and live without fear.
+Four times in this passage God says, "Then they shall know that I am the Lord" — whether He is judging or rescuing, everything He does is aimed at people truly knowing Him.
 
 ---
 
