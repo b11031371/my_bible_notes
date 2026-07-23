@@ -51,7 +51,7 @@
 
 ### Behind history, God is the one in charge
 
-> To human eyes, the rise and fall of nations is decided by the strength of their armies; yet hidden behind it is the One who governs history — the providence of God. [1]
+> Babylon was able to conquer Egypt not because it held military superiority, but because God used Babylon. [1]
 
 Egypt, Tyre, and Babylon look like a few big powers wrestling for control, but the one who actually decides the outcome is God. Even a Babylonian king who does not know God is only a tool in His hand to get things done.
 
