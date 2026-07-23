@@ -67,7 +67,7 @@ The very thing Egypt was proudest of — its own power — was exactly what fell
 
 ## IV. Reflection Question
 
-Is there something you feel like you'd be totally fine as long as you had it — maybe your grades, your friend group, or something you're really good at?
+Is there something you feel like you'd be totally fine as long as you had it — maybe your looks, the likes and followers on your phone, or something you're really good at?
 
 The thing Egypt was proudest of was its own power, and that was exactly what fell first; it's worth asking whether your sense of security rests on things that can change, or on the God who doesn't.
 
