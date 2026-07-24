@@ -71,9 +71,9 @@ From the previous passage (29:17–30:9) through this one, the line "they shall 
 
 ## IV. Reflection Question
 
-Is there someone around you who seems really strong—the top student, the most popular, the one with the most influence? Do you think the "strength" they have right now will last forever?
+When something goes really well for you—when you pull it off—who do you give the credit to?
 
-This passage says that from beginning to end, it was God who made Pharaoh strong and God who made him fade; the One who truly holds everything has never been anyone's own power, but Him.
+This passage says an arm can be raised and a battle won because God gives the strength; your abilities and the things that go well for you trace back to Him too.
 
 ---
 
