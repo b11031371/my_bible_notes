@@ -45,7 +45,7 @@
 
 ## II. Key Summary
 
-- God announces that He will destroy Egypt and its allied nations by the hand of Nebuchadnezzar king of Babylon, leaving the whole land in ruins.
+- Continuing the prophecy against Egypt from the previous passage (29:17–30:9), God further announces that He will destroy Egypt and its allied nations by the hand of Nebuchadnezzar king of Babylon, leaving the whole land in ruins.
 - God names Egypt's cities and regions one by one—Noph, Pathros, Zoan, No, Sin, Tehaphnehes—declaring that each will be burned, broken open, and taken captive.
 - God says He has already broken Pharaoh's arm, and that He will strengthen the arm of the king of Babylon, put His sword in his hand, and scatter the Egyptians among the nations.
 
@@ -55,9 +55,9 @@
 
 ### The One Who Really Holds History Is God
 
-> To human eyes, the rise and fall of nations depends on the strength of their military power; yet hidden behind it all is the Ruler of history—God's providence. [1]
+> This is the testimony of history: we see that the Lord is the Master of history, and His hand is strong, mighty enough to sway the fate of the nations. [1]
 
-Egypt had stood as a superpower for over two thousand years, and Pharaoh looked untouchable. But this passage says the One who made Egypt strong—and who brings it down—is God. On the surface it looks like a contest of armies and weapons, but the One actually deciding the outcome has always been the God who rules over history.
+In the previous passage (29:17–30:9) God announced He would hand Egypt over to Babylon; here (30:10-26) He spells it out in concrete detail—Pharaoh's strong arm is broken, while Babylon's arm is strengthened by God. This whole passage is about "hands" and "arms"—that is, power; and the One who decides whose strength is raised and whose falls has always been the same God who rules over history.
 
 ---
 
@@ -65,7 +65,7 @@ Egypt had stood as a superpower for over two thousand years, and Pharaoh looked 
 
 > The Lord is known by the judgments which He executes. [2]
 
-The line "they shall know that I am the Lord" repeats through this whole chapter. God disciplines Egypt not to vent anger, but to make one thing clear: the real ruler is Him, not the powers that think they are so strong. He acts with justice and order, and in the end He wants people to recognize who He is.
+From the previous passage (29:17–30:9) through this one, the line "they shall know that I am the Lord" keeps coming back. God disciplines Egypt not to vent anger, but to make one thing clear: the real ruler is Him, not the powers that think they are so strong. He acts with justice and order, and in the end He wants people to recognize who He is.
 
 ---
 
@@ -79,5 +79,5 @@ This passage says that from beginning to end, it was God who made Pharaoh strong
 
 ## References
 
-[1] Chinese Christian Bible Study Website, Bible Intensive Reading Commentary (聖經精讀本), https://www.ccbiblestudy.org/Old%20Testament/26Ezek/26GT30.htm
+[1] Chinese Christian Bible Study Website, Tang Yau-chi, Tien Dao Bible Commentary — Ezekiel (唐佑之《天道聖經註釋──以西結書》), https://www.ccbiblestudy.org/Old%20Testament/26Ezek/26GT30.htm
 [2] Blue Letter Bible, Matthew Henry Commentary, https://www.blueletterbible.org/comm/mhc/Eze/Eze_030.cfm
