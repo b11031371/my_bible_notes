@@ -71,7 +71,7 @@ The charge against Pharaoh was not that he was strong, but where he aimed that s
 
 How do you usually treat the people around you? And how do you think you affect them?
 
-Pharaoh used his strength to churn up the waters around him and left everyone else unsettled; God said He would haul him out of the water so those waters could run clear again and flow like oil.
+Pharaoh churned up the waters around him, and everyone else's life got unsettled; God hauled him out of the water so those waters could run clear again — what God wants is for the people around you to live in peace.
 
 ---
 
