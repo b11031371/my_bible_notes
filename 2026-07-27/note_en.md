@@ -69,7 +69,7 @@ The charge against Pharaoh was not that he was strong, but where he aimed that s
 
 ## IV. Reflection Question
 
-Whatever influence you have right now — at school, at home, among your friends, however small — is it actually helping people live better?
+How do you usually treat the people around you? And how do you think you affect them?
 
 Pharaoh used his strength to churn up the waters around him and left everyone else unsettled; God said He would haul him out of the water so those waters could run clear again and flow like oil.
 
