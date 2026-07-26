@@ -69,9 +69,9 @@ The charge against Pharaoh was not that he was strong, but where he aimed that s
 
 ## IV. Reflection Question
 
-Is the person you think you are the same person the people around you actually experience?
+Whatever influence you have right now — at school, at home, among your friends, however small — who is it actually making life better for?
 
-Pharaoh saw himself as a lion among the nations; God called him the monster who muddied the water.
+Pharaoh used his strength to churn up the waters around him and left everyone else unsettled; God said He would haul him out of the water so those waters could run clear again and flow like oil.
 
 ---
 
