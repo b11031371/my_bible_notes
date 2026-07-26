@@ -69,9 +69,9 @@ The charge against Pharaoh was not that he was strong, but where he aimed that s
 
 ## IV. Reflection Question
 
-How do you usually treat the people around you? And how do you think you affect them?
+Is there someone who, just by being there, makes you relax a little? What is it they do that makes you feel that way?
 
-Pharaoh muddied the waters around him and everyone else got unsettled; God pulled him out so the water could run clear — God cares whether the people near you are at peace.
+Pharaoh muddied the waters around him and everyone else got unsettled; God pulled him out so the water could run clear — God cares whether people can be at peace where you are.
 
 ---
 
