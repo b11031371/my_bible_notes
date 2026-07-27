@@ -69,9 +69,9 @@ Pharaoh's one consolation is discovering that others ended up just as badly. The
 
 ## IV. Reflection Question
 
-When you have some influence — friends listen to you, people care what you think — what do you usually do with it?
+What do you hope stays with the people who spend time with you?
 
-The powers in this passage once made everyone afraid, and all they carry in the end is shame; the question God asks is what you did with the power you had.
+What those nations left people was fear, and it followed them down to the Pit and became the shame they carry; God remembers what you leave with people too.
 
 ---
 
