@@ -55,9 +55,9 @@ Ezekiel's job was to open his mouth; what the other person decided after that wa
 
 ## IV. Reflection Question
 
-When you see a friend doing something you don't think is right, what makes you decide whether to say something to them?
+When you can see that a friend is headed for real trouble if they keep going, what makes you decide whether to say something to them?
 
-God made Ezekiel a watchman, and what He handed him was the job of speaking up and warning people; whether the other person turned was never charged to Ezekiel's account.
+The watchman blew the trumpet to warn the people because he saw the sword coming; God made Ezekiel a watchman, and what He handed him was the job of speaking up — whether the other person turned was never charged to Ezekiel's account.
 
 ---
 
