@@ -55,9 +55,9 @@ Ezekiel's job was to open his mouth; what the other person decided after that wa
 
 ## IV. Reflection Question
 
-When someone tells you, "if you keep going like this, it's going to blow up," what's your first reaction?
+When you see a friend doing something you don't think is right, what makes you decide whether to say something to them?
 
-In Ezekiel 33, the people who heard the trumpet had to decide for themselves whether to listen — and God sounds that trumpet because He wants them alive.
+God made Ezekiel a watchman, and what He handed him was the job of speaking up and warning people; whether the other person turned was never charged to Ezekiel's account.
 
 ---
 
