@@ -45,11 +45,11 @@ God blows this trumpet because He wants people to have a chance to turn around, 
 
 ---
 
-### The watchman is saying what he heard from God
+### Your part is to speak; whether they listen is on them
 
-> The watchman did not gain his knowledge by studying the armies of the Babylonian empire, or by looking at the false prophets among God's people at that time. Ezekiel heard from God that judgment was coming soon, and had to announce it. [2]
+> If the watchman faithfully delivered his message, then the response of the one he warned was the responsibility of the one who heard it. It could be said to the watchman, you have delivered your soul. [2]
 
-Ezekiel wasn't speaking from his own guesswork or observation — he listened to God first, then opened his mouth. That's a reminder too: a warning worth taking seriously has something solid behind it, not just someone's mood or hunch.
+Ezekiel's job was to open his mouth; what the other person decided after that was their own call. So if you often feel like "saying something won't change anything," this is for you: once you've said it, you've done your part.
 
 ---
 
