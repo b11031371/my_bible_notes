@@ -53,11 +53,11 @@ The people genuinely enjoyed listening to Ezekiel—it moved them, it sounded go
 
 ---
 
-### Being part of the crowd doesn't make you right
+### After the bad news, God gave a new direction
 
-> Many people today likewise depend on their connection with a group or organization, without seeking purity of heart. Yet it is purity of heart alone that will enable a person to stand in the end... in the final analysis, true religion is a personal matter. [2]
+> God had given Ezekiel a sense of a significant revelation to come... but had made the prophet mute until the messenger came. [1] The fall of Jerusalem marked a turning point in Ezekiel's ministry—from proclaiming judgment alone to now preaching a message of restoration and hope. [2]
 
-Those left in the ruins told themselves, "We're more numerous than Abraham ever was, so this land is obviously ours"—treating their numbers as proof they were in the right. But God was never looking at which group they belonged to or how many people stood with them; He was looking at the actual condition of each person's life.
+The night before the bad news arrived, God kept Ezekiel silent; the moment the messenger showed up the next morning, his mouth was opened. This wasn't just about getting his voice back—it marked a turn in the whole direction of his calling, toward speaking words of hope. Rock bottom wasn't the end of the story; it was exactly where God started saying something new.
 
 ---
 
