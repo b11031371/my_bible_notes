@@ -51,7 +51,7 @@ It was never wrong for a shepherd to receive a living from the flock. What went 
 
 > "My flock" is more than an expression of ownership; it is a term of endearment. [2]
 
-God says "My sheep" four times in this passage — a reminder to the shepherds that the flock was never theirs to own. They were entrusted to manage it, not given the right to treat people as their possession.
+God says "My sheep" four times in this passage, and right after, He makes His stance clear: what happens to the flock matters to Him, and the shepherds must answer for their neglect (v8-10). Shepherds are entrusted to care for the flock, but they need to remember they answer to God — how you treat those placed in your care, God sees it.
 
 ---
 
