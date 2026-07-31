@@ -39,31 +39,31 @@
 
 ## III. Passage Analysis
 
-### Caring isn't a slogan — it's a specific action
+### The shepherds forgot why the flock was put in their hands
 
-> Godly shepherds must serve more for the benefit of the flock than their own benefit. [1]
+> Woe to the shepherds who feed themselves — they regard their own profit and advantage, not the good of the people committed to their charge. [1]
 
-The passage lists five things a shepherd should do — strengthen, heal, bind up, bring back, seek out — and every one of them is a concrete action, not just words. Really caring about someone isn't saying "I care about you"; it's noticing where they're struggling and actually doing something about it.
+It was never wrong for a shepherd to receive a living from the flock. What went wrong was putting their own benefit first and the people they were responsible for last. Once the motive was off, the actions followed.
 
 ---
 
-### God sees everything — He doesn't pretend not to notice
+### You don't belong to anyone — you belong to God
 
-> Shepherds are given a position of glory and honor, but when they fail to fulfill their duty, God's wrath falls upon them. [2]
+> "My flock" is more than an expression of ownership; it is a term of endearment. [2]
 
-Having a position and having influence also comes with responsibility. God doesn't let leaders off the hook just because of their status — whoever you choose to care for, or choose to ignore, God sees it clearly.
+God says "My sheep" four times in this passage — a reminder to the shepherds that the flock was never theirs to own. They were entrusted to manage it, not given the right to treat people as their possession.
 
 ---
 
 ## IV. Reflection Question
 
-When you notice someone in your friend group or class being left out or excluded, do you usually step in, or just look out for yourself?
+When you're given a role responsible for others — class officer, club leader, church service — do you care more about their good, or what you get out of it?
 
-Ezekiel 34 says God sees the shepherds who only look after themselves and ignore the weak, and He also sees every sheep that gets overlooked.
+In Ezekiel 34, God rebukes shepherds entrusted with the flock who cared only about their own benefit, not the flock's needs.
 
 ---
 
 ## References
 
-[1] Enduring Word, David Guzik commentary on Ezekiel 34, https://enduringword.com/bible-commentary/ezekiel-34/
-[2] Chinese Christian Bible Study Website, Bible Knowledge Commentary (聖經精讀本), https://www.ccbiblestudy.org/Old%20Testament/26Ezek/26GT34.htm
+[1] BibleHub Commentaries, Benson Commentary on Ezekiel 34, https://www.biblehub.com/commentaries/ezekiel/34-2.htm
+[2] Enduring Word, David Guzik commentary on Ezekiel 34 (quoting Block), https://enduringword.com/bible-commentary/ezekiel-34/
