@@ -33,31 +33,31 @@
 
 ## III. Passage Analysis
 
-### Peace isn't a feeling — it's a situation God personally turns around
+### The things that hurt you — God says He'll take them away, one by one
 
-> "Peace" here does not mean the absence of war, disease, or trouble — it means a state of blessing, health, and all-around prosperity. Only the Prince of Peace, Jesus Christ, can fully accomplish this covenant of peace; this prophecy is centered on the Messiah. [1]
+> The covenant of peace speaks of far more than just the absence of war or conflict — it's a person's whole state being well: body, surroundings, and relationship with God, all whole. [1]
 
-The peace in this passage isn't just "feeling calm inside." Wild animals, famine, being taken advantage of — God deals with all these visible problems Himself. Peace here means God actually steps in and cleans up the mess, not a feeling you have to grind out on your own.
+The passage then lists exactly what God removes: wild beasts gone, the yoke of slavery broken, no more plunder or shame from foreign nations, no more hunger (vv26-29). God doesn't tell His people to just tough it out on their own — He says He will deal with these harmful things Himself, one by one.
 
 ---
 
-### Who you are isn't yours to decide — God says it first
+### You belong to God, and that doesn't change
 
-> "You are men, and I am your God": This wonderful reminder assured Israel that even though they were like sheep, they were much more than sheep. They were men, made in the image of God and capable of so much more than sheep. [2]
+> "These are men... that I am a God to, and will be so for ever." [2]
 
-Here God speaks first and says "you are Mine" — that identity isn't something Israel had to prove; it's a fact God stated and put on the table. Who owns you, who holds you close, gets decided before how well you're performing ever does.
+The passage ends with, "You are My flock, the flock of My pasture; you are men, and I am your God" — God Himself settles this relationship, and makes clear it's forever, not something decided by how well you perform.
 
 ---
 
 ## IV. Reflection Question
 
-Have you ever wondered who actually gets to decide who you are — you, or everyone else's opinion of you?
+Ezekiel 34 describes how God personally shepherds the flock — seeking the lost and healing the wounded (v16), leading them to good pasture (v14), protecting the sheep from harm (v25, 28). In your life right now, is there someone, or something, caring for you in one of these ways?
 
-In this passage God speaks first to His people, "You are My flock... and I am your God" — that identity wasn't something they earned; God stated it as a fact.
+Whatever state you're in, the passage says God promises to shepherd you in these concrete ways, until you can lie down in safety.
 
 ---
 
 ## References
 
-[1] Chinese Christian Bible Study Website (ccbiblestudy.org), Bible Study Reading Version (聖經精讀本), https://www.ccbiblestudy.org/Old%20Testament/26Ezek/26GT34.htm
-[2] Enduring Word, David Guzik, https://enduringword.com/bible-commentary/ezekiel-34/
+[1] Enduring Word, David Guzik commentary on Ezekiel 34 (quoting Block), https://enduringword.com/bible-commentary/ezekiel-34/
+[2] BibleHub Commentaries, Matthew Poole's Commentary on Ezekiel 34:31, https://www.biblehub.com/commentaries/ezekiel/34-31.htm
