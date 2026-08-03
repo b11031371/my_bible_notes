@@ -57,19 +57,19 @@ Edom's hatred wasn't one bad argument — it was passed down through generations
 
 ---
 
-### You think God has left — He's still there
+### God has been there all along
 
 > "Though the two kingdoms had fallen, ownership of the land remained in the Lord's hands, and no one could take it away." [2]
 
-Edom saw Israel crushed and the land emptied out, and assumed it was up for grabs; they missed one thing — "although the LORD was there." A place that looks abandoned by God isn't proof that God has actually gone.
+The city had fallen, the people had been carried off, and it looked like nothing was left — but God never left that land. Edom wanted to take it for themselves, and they had no claim to it: who the land belonged to was never theirs to decide.
 
 ---
 
 ## IV. Reflection Question
 
-Is there someone right now you quietly don't want to see doing well?
+Is there someone in your life you just don't get along with? When things go badly for them, what goes through your mind?
 
-Edom's hatred was also built up one day at a time, and God said about the words they spoke against His people, "I have heard them."
+Edom watched Israel's land lie in ruins and was glad about it, and they had plenty to say; God said, "I have heard them."
 
 ---
 
