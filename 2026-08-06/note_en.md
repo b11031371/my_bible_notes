@@ -59,19 +59,19 @@ When God says "I do not do this for your sake," He removes the whole idea that H
 
 ---
 
-### He replaces the heart—He doesn't ask you to try harder
+### God changes your heart Himself—it's not something you pull off on your own
 
 > God will work an inward change in order to a universal change. Renewing grace works as great a change in the soul as the turning of a dead stone into living flesh. [2]
 
-God doesn't say "push a little harder and you'll be fine." He says He will take out the heart of stone and give a heart that can feel and respond. The change starts inside, and God is the one doing it.
+Turning a heart of stone into one that can feel is something no amount of effort on your part can pull off; only God can do it. And when He does it, He attaches no conditions—this new heart is grace, given freely.
 
 ---
 
 ## IV. Reflection Question
 
-How do you decide whether you were "good enough" today?
+What thought or attitude inside you is something only God can change?
 
-In this passage God says He does all of this not because people are good enough but for the sake of His own name—and what He gives is a new heart.
+Israel defiled the land God gave them, got scattered among the nations, and caused His name to be profaned there (vv. 16–21); yet God says He will take the heart of stone out of them and give them a heart of flesh (v. 26). He does it Himself, and He gives it freely.
 
 ---
 
