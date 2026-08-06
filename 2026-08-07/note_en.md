@@ -51,9 +51,9 @@ Verse 37 is striking: God has clearly already promised this restoration, yet He 
 
 ## IV. Reflection Question
 
-If God really can rebuild the most ruined place into a garden of Eden, which part of your life would you want Him to start on?
+Israel was told to be ashamed of their own ways, and they still received the promise of rebuilding — hope at their lowest point. Why do you think God was still willing to give grace like that?
 
-Verse 37 says that even after promising, God waited for His people to ask — so you can bring that place to Him right now.
+In verse 36 God says He will "rebuild the ruined places and plant what was desolate." What ground of yours is lying desolate right now, waiting for God to restore it?
 
 ---
 
