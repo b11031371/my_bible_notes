@@ -65,9 +65,9 @@ The cleansing in verse 23 and the sanctuary "in their midst" in verses 26-28 bel
 
 ## IV. Reflection Question
 
-Which relationship in your life do you think you can't fix on your own?
+Israel and Judah split into two kingdoms and hated each other for a long time. Yet God would make them one again and set them apart as holy. What do you want God to do in your relationships?
 
-The two sticks in Ezekiel's hand didn't join themselves — God said, "they will be one in My hand."
+God promised His Spirit would first come into them (37:14), then the two kingdoms would be joined into one in His hand, and finally He would dwell among them and make them holy (37:28).
 
 ---
 
