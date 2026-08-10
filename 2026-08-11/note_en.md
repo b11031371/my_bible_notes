@@ -57,9 +57,9 @@ Verse 23 is the conclusion of the whole section: the earthquake, the sword, the 
 
 ## IV. Reflection Question
 
-What is something in your life right now that you can't control no matter how hard you try, something that makes you tense just thinking about it?
+What would someone have to see before they would believe God is real?
 
-In Ezekiel 38, even that army from the far north — so vast it covered the land like a cloud — is the one God says "I will bring you against My land." Nothing is outside His control.
+Ezekiel 38:23 answers it plainly: God Himself will be magnified and sanctified, and when the nations see it, they will know that He is the LORD.
 
 ---
 
