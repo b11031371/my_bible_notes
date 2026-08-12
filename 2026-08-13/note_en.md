@@ -57,9 +57,9 @@ Bodies lying on the ground defiled the land, and that land belonged to the Lord.
 
 ## IV. Reflection Question
 
-The way God deals with evil is to remove it completely, leaving not one trace of it. What in your life would you want Him to deal with that way?
+What people, things, habits, or environments in your life keep having a bad effect on you?
 
-Israel searched the whole land and let not one bone slip past, because God wanted that land completely clean — He was getting ready to move in.
+God deals with evil by removing it completely, leaving not one trace of it; Israel searched the whole land and let not one bone slip past, because God wanted that land completely clean — He was getting ready to move in.
 
 ---
 
