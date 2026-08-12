@@ -43,7 +43,7 @@
 
 > The motive is the complete annihilation of the enemy, the removal of every trace of him. [1]
 
-Driving the enemy off wasn't the end of it. God had people walk the land inch by inch for seven months, setting up a marker beside every bone they spotted, until there was nothing left to find — evil doesn't get held down here, it gets pulled out by the roots.
+Driving the enemy off wasn't the end of it. The text measures the cleanup in "seven months," and seven is the number of completeness — the point is a stretch of time long enough and full enough for the whole land to be walked inch by inch with not one bone left behind, evil pulled out by the roots rather than held down.
 
 ---
 
