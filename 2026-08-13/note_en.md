@@ -39,32 +39,32 @@
 
 ## III. Passage Analysis
 
-### Cleaning Up Completely — Down to the Last Bone
+### Not a Single Trace Left Behind
 
-> They shall search for more, that what is hidden may be brought to light; they shall search out iniquity till they find none. [1]
+> The motive is the complete annihilation of the enemy, the removal of every trace of him. [1]
 
-Israel didn't just win the battle and walk away — they spent seven months walking the land inch by inch, marking every single bone they found. The kind of clean God wants reaches even the stuff tucked away in the corners where nobody's looking.
+Driving the enemy off wasn't the end of it. God had people walk the land inch by inch for seven months, setting up a marker beside every bone they spotted, until there was nothing left to find — evil doesn't get held down here, it gets pulled out by the roots.
 
 ---
 
-### The Ones Who Came to Devour End Up on the Table
+### The Land Gets Cleaned Because Someone Is Moving In
 
-> Their corpses will be a sacrificial meal that birds and animals will consume. It is a stunning reversal. Instead of human beings consuming the animals of sacrifice, it is the animals who consume the human beings sacrificed for Yahweh's honor. [2]
+> They did not want the land, holy to God, to be defiled by unclean corpses. [2]
 
-Gog marched in with an army planning to swallow this land whole and keep it — and ended up as the dish on the table. The whole scene says the same thing: no matter how strong the attack looks, God decides who ends up at the head of the table.
+Bodies lying on the ground defiled the land, and that land belonged to the Lord. All this trouble to get it clean was leading somewhere — in the very next chapter, Ezekiel sees the vision of the new temple.
 
 ---
 
 ## IV. Reflection Question
 
-Is there something in your life you already know isn't right, but you keep telling yourself it's no big deal and just leave it alone?
+The way God deals with evil is to remove it completely, leaving not one trace of it. What in your life would you want Him to deal with that way?
 
-Israel spent seven months searching the whole land, marking every single bone they found, because God wanted that land completely clean.
+Israel searched the whole land and let not one bone slip past, because God wanted that land completely clean — He was getting ready to move in.
 
 ---
 
 ## References
 
-[1] Blue Letter Bible, Matthew Henry's Commentary on Ezekiel 39, https://www.blueletterbible.org/Comm/mhc/Eze/Eze_039.cfm
+[1] BibleHub, Keil and Delitzsch Biblical Commentary on Ezekiel 39:12, https://biblehub.com/commentaries/ezekiel/39-12.htm
 
-[2] Enduring Word, David Guzik – Ezekiel 39 (citing Vawter and Hoppe), https://enduringword.com/bible-commentary/ezekiel-39/
+[2] Chinese Christian Bible Study Site, *Bible Intensive Reading* commentary on Ezekiel 39:12 (translated from Chinese), https://www.ccbiblestudy.org/Old%20Testament/26Ezek/26GT39.htm
