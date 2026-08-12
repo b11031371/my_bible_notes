@@ -31,9 +31,9 @@
 
 ## II. Key Summary
 
-- God says He will give Gog a burial place in the valley east of the sea, and the house of Israel will spend seven months burying Gog and all his multitude; the place will be called the Valley of Hamon Gog (vv. 11-12).
-- After those seven months, search parties will keep passing through the land, and whenever anyone spots a human bone they set up a marker so the buriers can carry it to the Valley of Hamon Gog; there is also a city named Hamonah (vv. 14-16).
-- God tells Ezekiel to speak to every bird and beast, calling them from all sides to the mountains of Israel to eat the flesh of the mighty and drink the blood of the princes of the earth, filled at God's table with horses, riders, and all the men of war (vv. 17-20).
+- God says He will give Gog a burial place in Israel — the valley of those who pass by, east of the sea — and the house of Israel will spend seven months burying Gog and all his multitude in order to cleanse the land; the place will be called the Valley of Hamon Gog (vv. 11-12).
+- After those seven months, search parties will keep passing through the land, and whenever anyone spots a human bone they set up a marker so the buriers can carry it to the Valley of Hamon Gog; the text says, "Thus they shall cleanse the land," and there is also a city named Hamonah (vv. 14-16).
+- God tells Ezekiel to speak to every bird and beast, calling them from all sides to the mountains of Israel to eat the flesh of the mighty and drink the blood of the princes of the earth, filled at God's table with horses, riders, mighty men, and all the men of war (vv. 17-20).
 
 ---
 
