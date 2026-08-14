@@ -69,9 +69,9 @@ One rod, six cubits, thirteen cubits—the whole chapter reads like a set of blu
 
 ## IV. Reflection Question
 
-When something looks like it's past fixing, what do you usually assume God is doing about it?
+When someone tells you "don't worry, it'll be fine," what actually goes through your head? Do you feel genuinely comforted, or does it sound like something people just say when they don't really know how things will turn out?
 
-When Ezekiel saw this vision, Jerusalem had been a ruin for fourteen years—and that was the moment God took him to see a new temple measured down to the inch.
+God did not simply tell Ezekiel it would be fine. He took him to see a temple and had it measured out for him rod by rod—how thick the wall was, how wide the gate, how tall the gateposts. Hope gets spelled out in that much detail when there is a real intention to build it.
 
 ---
 
