@@ -83,7 +83,7 @@ This chapter just keeps reporting numbers, but there's a pattern hidden inside t
 
 > It is called a table, as being that at which the Lord will take delight in His people, as at a feast. [2]
 
-After passing through doors that got narrower one by one, what Ezekiel saw was not a cold high wall but a table set out for people. God draws the lines because He actually intends to sit down and eat with us.
+After passing through doors that got narrower one by one, what Ezekiel saw at the very center was "the table that is before the LORD" (some commentators link its meaning to the showbread table in the holy place; see Exodus 25:30; Leviticus 24:5–9 [1]). God draws the lines that clearly and that strictly, and at the very center He sets a table. A table is for a feast—that is where the Lord takes delight in His people.
 
 ---
 
