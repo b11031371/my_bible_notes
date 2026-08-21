@@ -53,32 +53,34 @@
 
 ## III. Passage Analysis
 
-### Still There When Everyone Else Walked Away
+### How Faithful You Are Decides How Much You Are Trusted With
 
-> "They were not like the other Levites in general, being noted for their faithfulness—who kept charge of My sanctuary when the children of Israel went astray from Me." [1]
+> "The Levites were given the office of serving in the temple, but because they were the first to fall into idolatry, they were disqualified from holding that office; their work now is to guard the gates and slaughter the sacrifices. Whoever is faithful in small things will be put in charge of great things; whoever is unfaithful in great things is left with only small things." [1]
 
-The sons of Zadok did nothing spectacular. They just stayed at their post while everyone else drifted off. That is the only reason God gives them the place closest to Himself.
+The Levites who went astray are kept out at the temple gates (vv. 10-14, yesterday's portion). The sons of Zadok are Levites too, and in vv. 15-16 they may enter the sanctuary, come near God's table to minister, and "keep My charge."
 
 ---
 
-### God Says, I Am Your Inheritance
+### Everyone Else Got Land; the Levites Got God
 
-> "The priests' inheritance was not land, but God Himself… God would personally take responsibility for providing what they needed to live on." [2]
+> "The priests' inheritance was not land, but God Himself. When the land was divided in Joshua's day, every other tribe received its portion; only the Levites received no land, because God is their inheritance. This means God takes personal responsibility for how they live." [2]
 
-Every other tribe got a piece of land; the priests got none, because God gave them Himself instead. It looks like they lost out, but it is God saying out loud: your life is on Me.
+In v. 28 God says, "You shall give them no possession in Israel, for I am their possession," and vv. 29-30 then list what they actually live on: the grain offering, the sin offering, the trespass offering, and the people's firstfruits.
 
 ---
 
 ## IV. Reflection Question
 
-If something you believe is right and nobody around you is doing it with you, how do you decide whether to keep going?
+If someone asked you, "What is the place God has given you right now?" — how would you answer?
 
-God remembered the sons of Zadok for one reason — when everyone else walked away, they were still there.
+In v. 15 God is the one who speaks first: "they shall come near Me to minister to Me." The place the sons of Zadok hold was given to them, not chosen by them — and according to 1 Peter 2:5, 9, every believer today is a priest to God. [3]
 
 ---
 
 ## References
 
-[1] Enduring Word, David Guzik, Commentary on Ezekiel 44, https://enduringword.com/bible-commentary/ezekiel-44/
+[1] Chinese Christian Bible Study Site (ccbiblestudy), *Grace Bible Commentary* (聖經精讀本), Notes on Ezekiel 44:10, https://www.ccbiblestudy.org/Old%20Testament/26Ezek/26GT44.htm
 
-[2] Chinese Christian Bible Study Site (ccbiblestudy), *Grace Bible Commentary* (聖經精讀本), Notes on Ezekiel 44, https://www.ccbiblestudy.org/Old%20Testament/26Ezek/26GT44.htm
+[2] Chinese Christian Bible Study Site (ccbiblestudy), *Grace Bible Commentary* (聖經精讀本), Notes on Ezekiel 44:28, https://www.ccbiblestudy.org/Old%20Testament/26Ezek/26GT44.htm
+
+[3] Enduring Word, David Guzik, Commentary on Ezekiel 44 (note on Ezekiel 44:15), https://enduringword.com/bible-commentary/ezekiel-44/
