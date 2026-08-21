@@ -73,7 +73,7 @@ In v. 28 God says, "You shall give them no possession in Israel, for I am their 
 
 If someone asked you, "What is the place God has given you right now?" — how would you answer?
 
-In v. 15 God is the one who speaks first: "they shall come near Me to minister to Me." The place the sons of Zadok hold was given to them, not chosen by them — and according to 1 Peter 2:5, 9, every believer today is a priest to God. [3]
+In v. 15 God is the one who speaks first: "they shall come near Me to minister to Me." The place was given to the sons of Zadok, not chosen by them. According to 1 Peter 2:5, 9, every believer today is a priest to God, and that service is aimed first not at people, but at God Himself. [3]
 
 ---
 
