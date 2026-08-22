@@ -7,7 +7,7 @@
 
 **NKJV:** Ezekiel 45:1-8
 
-**1** "Moreover, when you divide the land by lot into inheritance, you shall set apart a district for the Lord, a holy section of the land; its length shall be twenty-five thousand cubits, and the width ten thousand. It shall be holy throughout its territory all around.
+**1** Moreover, when you divide the land by lot into inheritance, you shall set apart a district for the Lord, a holy section of the land; its length shall be twenty-five thousand cubits, and the width ten thousand. It shall be holy throughout its territory all around.
 
 **2** Of this there shall be a square plot for the sanctuary, five hundred by five hundred rods, with fifty cubits around it for an open space.
 
@@ -21,46 +21,46 @@
 
 **7** The prince shall have a section on one side and the other of the holy district and the city's property; and bordering on the holy district and the city's property, extending westward on the west side and eastward on the east side, the length shall be side by side with one of the tribal portions, from the west border to the east border.
 
-**8** The land shall be his possession in Israel; and My princes shall no more oppress My people, but they shall give the rest of the land to the house of Israel, according to their tribes."
+**8** The land shall be his possession in Israel; and My princes shall no more oppress My people, but they shall give the rest of the land to the house of Israel, according to their tribes.
 
 ---
 
 ## II. Key Summary
 
-- When Israel divides the land by lot, God tells them to first set apart a district for the Lord — twenty-five thousand cubits long and ten thousand wide — and the whole of that section is holy throughout its territory.
-- Within that district is a square plot of five hundred by five hundred for the sanctuary, with fifty cubits of open space around it; the rest goes to the priests who minister at the sanctuary and to the Levites who serve at the temple. A separate area five thousand wide and twenty-five thousand long is the property of the city, belonging to the whole house of Israel.
-- The prince's land lies on both sides of the holy district and the city's property, running from the west border to the east border, matching the length of a tribal portion; God says His princes shall no more oppress His people, but shall give the rest of the land to the house of Israel according to their tribes.
+- God tells Israel that when they divide the land by lot as an inheritance, they are to set apart a district for the Lord — twenty-five thousand cubits long and ten thousand wide — holy throughout its territory all around.
+- Inside that holy section is a square plot of five hundred by five hundred for the sanctuary, with fifty cubits of open space around it; the section belongs to the priests who minister at the sanctuary, and another area belongs to the Levites who serve at the temple.
+- The property of the city belongs to the whole house of Israel, and the prince's land lies on both sides of the holy district and the city's property; God says His princes shall no more oppress His people, but shall give the rest of the land to Israel according to their tribes.
 
 ---
 
 ## III. Passage Analysis
 
-### The Best Portion Gets Marked Off First
+### The portion measured out first
 
-> "It is a holy portion of the land, which is to be set out first, as the first-fruits that sanctify the lump." [1]
+> It is a holy portion of the land, which is to be set out first, as the first-fruits that sanctify the lump. [1]
 
-The order in which the land is divided is itself a statement: nobody works out their own share first and then decides what's left over for God — the very first cut marks off God's portion. What comes first says who is actually at the center of things.
+When the land is divided, the Lord's portion is the first one measured, and everything else is laid out in relation to it. The priests, the Levites, the city, and the tribes all take their places around the sanctuary.
 
 ---
 
-### Given a Portion of His Own, He Doesn't Need to Grab
+### The prince gets a portion of his own
 
-> "The former kings of Israel had no land of their own, no domain; and this had driven them to acquire private property by violence and extortion… the portion of land is to be given to the prince as his own property." [2]
+> Former kings of Israel had no domain given them, and this had tempted them to acquire private property by violence and extortion. [2]
 
-The old kings had nothing of their own, so they used their power to take from the people; God's answer isn't just to tell the prince to stop, but to give him land that genuinely belongs to him. Someone who knows he's already been provided for can open his hands instead of taking from others.
+In this new arrangement God marks out land for the prince first, and then says, "My princes shall no more oppress My people." Power with a boundary around it stops reaching for someone else's share.
 
 ---
 
 ## IV. Reflection Question
 
-This week, what got your time and energy first?
+What actually comes first in your life right now — not what you wish came first, but what really does?
 
-In Ezekiel's vision, the first thing done when the land was divided wasn't the tribes taking their own share — it was one portion marked off and given to God.
+When Israel divided the land, the first portion was measured out for God; and the whole land had been given to them by God to begin with.
 
 ---
 
 ## References
 
-[1] Blue Letter Bible, Matthew Henry's Commentary on Ezekiel 45, https://www.blueletterbible.org/comm/mhc/Eze/Eze_045.cfm
+[1] Blue Letter Bible, Matthew Henry Commentary, https://www.blueletterbible.org/Comm/mhc/Eze/Eze_045.cfm
 
-[2] BibleHub.com, Keil and Delitzsch Commentary on Ezekiel 45:8, https://biblehub.com/commentaries/ezekiel/45-8.htm
+[2] BibleHub, Ellicott's Commentary for English Readers, https://biblehub.com/commentaries/ezekiel/45-8.htm
