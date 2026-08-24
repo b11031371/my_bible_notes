@@ -40,6 +40,7 @@
 **24** And he shall prepare a grain offering of one ephah for each bull and one ephah for each ram, together with a hin of oil for each ephah.
 
 **25** “In the seventh month, on the fifteenth day of the month, at the feast, he shall do likewise for seven days, according to the sin offering, the burnt offering, the grain offering, and the oil.”
+
 ---
 
 ## II. Key Summary
