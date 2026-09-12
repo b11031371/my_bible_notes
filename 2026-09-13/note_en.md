@@ -309,9 +309,9 @@ The list contains Er, Achar, the ugly parts of David's household, and the hard b
 
 ## IV. Reflection Question
 
-What's the most recent thing that made you feel like you're not good enough?
+If someone wrote your story down, which part would you most want skipped?
 
-The Chronicler wrote Er's wickedness, Achar's sin, and the mess inside David's own family straight into this genealogy — and never crossed a single name out.
+The Chronicler wrote Er's wickedness, Achan's sin, and the mess inside David's own family straight into this genealogy — he never crossed out a single name, and none of it stopped God's plan.
 
 ---
 
