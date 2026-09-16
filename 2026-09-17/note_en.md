@@ -5,7 +5,7 @@
 
 ## I. Today's Reading
 
-**NKJV (verse-by-verse summary):** 1 Chronicles 11:1–9
+**NKJV:** 1 Chronicles 11:1–9
 
 **1** All Israel gathers around David at Hebron and recognizes him as one of their own people.
 
