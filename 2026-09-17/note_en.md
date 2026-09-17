@@ -5,25 +5,25 @@
 
 ## I. Today's Reading
 
-**NKJV:** 1 Chronicles 11:1–9
+**KJV:** 1 Chronicles 11:1–9
 
-**1** All Israel gathers around David at Hebron and recognizes him as one of their own people.
+**1** Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh.
 
-**2** They remember that David led Israel even during Saul’s reign, and that God had appointed him to shepherd and rule Israel.
+**2** And moreover in time past, even when Saul was king, thou wast he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.
 
-**3** Israel’s elders meet David at Hebron. They make a covenant before the Lord and anoint him king, fulfilling the word given through Samuel.
+**3** Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel.
 
-**4** David and all Israel go to Jerusalem, then called Jebus, where the Jebusites live.
+**4** And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land.
 
-**5** Although the inhabitants insist that David cannot enter, he captures Zion’s stronghold, later called the City of David.
+**5** And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which is the city of David.
 
-**6** David promises leadership to whoever attacks first. Joab goes up first and becomes commander.
+**6** And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.
 
-**7** David settles in the stronghold, so it becomes known as the City of David.
+**7** And David dwelt in the castle; therefore they called it the city of David.
 
-**8** David builds around the city beginning at the Millo, while Joab restores the remaining area.
+**8** And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.
 
-**9** David continues to grow in power because the Lord of hosts is with him.
+**9** So David waxed greater and greater: for the LORD of hosts was with him.
 
 ---
 
