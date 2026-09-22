@@ -51,7 +51,7 @@ The same ark brought death at Uzza's hand, yet brought three months of blessing 
 
 The last time you "put out your hand" to help—a friend, your family, or at church—did you do it the way you thought was right, or did you first ask how it should be done?
 
-Uzza's hand came from a good heart, but it wasn't God's way; God looks not only at your heart but at how you act, and when people follow His word, like Obed-Edom's family, blessing follows.
+Uzza's hand came from a good heart, but it wasn't God's way; later the ark was placed in the house of Obed-Edom, the Levite who was supposed to care for it (Numbers 4:15; 1 Chronicles 26:4), and the LORD blessed his household and all that he had (1 Chronicles 13:14).
 
 ---
 
