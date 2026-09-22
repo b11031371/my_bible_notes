@@ -31,11 +31,11 @@
 
 ## III. Passage Analysis
 
-### Good Intentions Still Need God's Way
+### Fear That Made David Take God Seriously
 
-> David's anger was rooted in confusion. He couldn't understand why his good intentions weren't enough. God is concerned with both our intentions and our actions. [1]
+> "Became angry" (v. 11) means David was "angry with himself." … Now that Uzza had also been struck down, David thought God did not want the ark to enter Jerusalem, so he "was afraid of God" (v. 12) and no longer dared to take God's presence for granted. [1]
 
-David and Uzza truly wanted to bring the ark home, but they put it on a new ox cart instead of having the Levites carry it on their shoulders as God had commanded. Their hearts were in the right place, but a good heart can't replace listening to what God actually said.
+David's fear had reverence in it: he no longer dared to take God's presence for granted. That reverence didn't make him give up. Later he named the problem—"we did not consult Him about the proper order" (1 Chronicles 15:13)—and had the Levites carry the ark with poles, as Moses had commanded by the word of the LORD (1 Chronicles 15:15).
 
 ---
 
@@ -57,6 +57,6 @@ Uzza's hand came from a good heart, but it wasn't God's way; later the ark was p
 
 ## References
 
-[1] Enduring Word, David Guzik, Commentary on 1 Chronicles 13, https://enduringword.com/bible-commentary/1-chronicles-13/
+[1] Chinese Christian Bible Study Resources (ccbiblestudy.org), *1 Chronicles Comprehensive Bible Study* (on 1 Chr 13:11–12), https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT13.htm
 
 [2] Chinese Christian Bible Study Resources (ccbiblestudy.org), *1 Chronicles Comprehensive Bible Study* (on 1 Chr 13:13), https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT13.htm
