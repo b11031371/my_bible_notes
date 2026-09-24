@@ -1,5 +1,5 @@
 # Daily Bible Note
-**Date:** 2026-09-25
+**Date:** September 25, 2026
 
 ---
 
@@ -9,9 +9,9 @@
 
 **1** David built houses for himself in the City of David; and he prepared a place for the ark of God, and pitched a tent for it.
 
-**2** Then David said, “No one may carry the ark of God but the Levites, for the Lord has chosen them to carry the ark of God and to minister before Him forever.”
+**2** Then David said, "No one may carry the ark of God but the Levites, for the LORD has chosen them to carry the ark of God and to minister before Him forever."
 
-**3** And David gathered all Israel together at Jerusalem, to bring up the ark of the Lord to its place, which he had prepared for it.
+**3** And David gathered all Israel together at Jerusalem, to bring up the ark of the LORD to its place, which he had prepared for it.
 
 **4** Then David assembled the children of Aaron and the Levites:
 
@@ -29,52 +29,52 @@
 
 **11** And David called for Zadok and Abiathar the priests, and for the Levites: for Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab.
 
-**12** He said to them, “You are the heads of the fathers’ houses of the Levites; sanctify yourselves, you and your brethren, that you may bring up the ark of the Lord God of Israel to the place I have prepared for it.
+**12** He said to them, "You are the heads of the fathers' houses of the Levites; sanctify yourselves, you and your brethren, that you may bring up the ark of the LORD God of Israel to the place I have prepared for it.
 
-**13** For because you did not do it the first time, the Lord our God broke out against us, because we did not consult Him about the proper order.”
+**13** For because you did not do it the first time, the LORD our God broke out against us, because we did not consult Him about the proper order."
 
-**14** So the priests and the Levites sanctified themselves to bring up the ark of the Lord God of Israel.
+**14** So the priests and the Levites sanctified themselves to bring up the ark of the LORD God of Israel.
 
-**15** And the children of the Levites bore the ark of God on their shoulders, by its poles, as Moses had commanded according to the word of the Lord.
+**15** And the children of the Levites bore the ark of God on their shoulders, by its poles, as Moses had commanded according to the word of the LORD.
 
 ---
 
 ## II. Key Summary
 
-- David built houses for himself in the City of David, prepared a place and pitched a tent for the ark of God, and declared that only the Levites may carry the ark, because the Lord chose them for it (vv. 1–2).
-- David gathered all Israel to Jerusalem and assembled the sons of Aaron and the chiefs of six Levite clans with their brethren—862 men in all—along with the priests Zadok and Abiathar (vv. 3–11).
-- David told the priests and Levites to sanctify themselves, explaining that the Lord broke out against them last time because they did not consult Him about the proper order; so they sanctified themselves and carried the ark on their shoulders with poles, as Moses had commanded (vv. 12–15).
+- David prepared a place and pitched a tent for the ark of God in the City of David, and said no one may carry the ark but the Levites, because the LORD had chosen them (v1-2).
+- David gathered all Israel at Jerusalem and assembled the children of Aaron and the Levites; the passage lists the chiefs and numbers of six families (v3-10).
+- David told the priests and Levite leaders to sanctify themselves, saying the LORD broke out against them because they did not consult Him about the proper order; the Levites then carried the ark on their shoulders by its poles, as Moses had commanded (v11-15).
 
 ---
 
 ## III. Passage Analysis
 
-### Doing a Good Thing the Right Way
+### "The Proper Order": How You Do It Counts Too
 
-> It is not enough that we do that which is good, but we must do it well—not enough that we seek God in a due ordinance, but we must seek after him, in a due order. [1]
+> This demonstrates David's commitment to bringing the ark of the covenant into Jerusalem in the right way. He had learned the lesson that the process also matters to God, not only the result. [1]
 
-David's first attempt came from a good heart, but he used the method that seemed easiest to him. This time he went back to God's word and did it the way Moses commanded—to God, *how* you do something matters as much as *what* you do.
+In the earlier passage (1 Chronicles 13:7-10), the goal was the same: bring the ark home. But the ark was put on a new cart. In v13 David names the problem, "we did not consult Him about the proper order," so this time the ark is carried on shoulders with poles, as Moses commanded (v15).
 
 ---
 
-### Saying "Us," Not "You"
+### David Says "Us"
 
-> However, he did not push the blame onto the Levites. He only said the Levites were not there, so God punished "us." In other words, David himself also took responsibility for the earlier mistake that led to Uzza's death. [2]
+> David rebuked the priests and Levites for not fulfilling their duty, which led to the tragedy. Yet he did not push the blame onto the Levites; he only said they were not there, and so God broke out against "us." In other words, David himself took responsibility for the mistake that led to Uzza's death. [2]
 
-In verse 13 David says the Lord broke out against "us," not "you." He didn't look for someone to blame—he admitted his own part, then led everyone to fix it and start again.
+The first half of v13 says "you did not do it the first time," but the second half turns into "the LORD our God broke out against us." David counts himself among the ones who got it wrong.
 
 ---
 
 ## IV. Reflection Question
 
-The last time you did something you thought was good—helping a friend, helping at home, serving at church—did you first ask "what does God's word say about how to do this," or did you just do it the way that seemed easiest to you?
+The last time you realized you had done something wrong, what did you do next?
 
-The second time, David stopped using his own method and carried the ark on shoulders "as Moses had commanded according to the word of the Lord"—God cares not only that you do good things, but that you do them His way.
+After getting it wrong, David admitted "we did not consult Him about the proper order" (v13), then did it again God's way (v15). What gave him the courage to face his mistake was God's grace (1 Chr 13:14).
 
 ---
 
 ## References
 
-[1] Blue Letter Bible, Matthew Henry, *Matthew Henry's Complete Commentary*, https://www.blueletterbible.org/comm/mhc/1Ch/1Ch_015.cfm
+[1] Enduring Word, David Guzik, "1 Chronicles 15 – The Ark Is Brought to Jerusalem", https://enduringword.com/bible-commentary/1-chronicles-15/
 
-[2] Chinese Christian Bible Study Data Website (華人基督徒查經資料網站), 蔡哲民 et al., 《歷代志上研經資料》 (1 Chronicles Study Notes; quote translated from Chinese), https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT15.htm
+[2] Chinese Christian Bible Study Data Website (華人基督徒查經資料網站), Tsai Che-Min et al., *Study Notes on 1 Chronicles* (1 Chronicles 15), https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT15.htm
