@@ -65,9 +65,9 @@ Michal cared about what a king was supposed to look like, but David wore the sam
 
 ## IV. Reflection Question
 
-Michal watched David dance from a window and despised him. What's the most recent thing you held back from doing because you worried someone nearby was watching and might laugh at you?
+Michal looked through a window, saw David dancing, and despised him in her heart. When you see someone throwing themselves into something you don't really like, what's the first thing your mind goes to?
 
-David set aside his royal robes and danced with everyone, and Michal's contempt didn't stop him, because what he cared about was that the ark had come home — God was coming to live among His people.
+What Michal saw was "King David whirling and playing music" (v29), and what she cared about was whether David looked the way a king should. What David and the people cared about was the ark coming into the City of David and God being with them, so they rejoiced together [3].
 
 ---
 
@@ -76,3 +76,5 @@ David set aside his royal robes and danced with everyone, and Michal's contempt 
 [1] Blue Letter Bible, Matthew Henry, "Commentary on 1 Chronicles 15", https://www.blueletterbible.org/comm/mhc/1Ch/1Ch_015.cfm
 
 [2] Enduring Word, David Guzik, "1 Chronicles 15 – The Ark Is Brought to Jerusalem", https://enduringword.com/bible-commentary/1-chronicles-15/
+
+[3] Chinese Christian Bible Study Website (ccbiblestudy.org), "A Comprehensive Reading of 1 Chronicles" (on 1 Chr 15:29), https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT15.htm
