@@ -65,9 +65,9 @@
 
 ## 四、問題反思
 
-米甲從窗戶看著大衛跳舞，心裡輕視他。最近一次你因為擔心旁邊有人在看、可能會笑你，就把想做的事收回來，是什麼事？
+米甲從窗戶裡看著大衛跳舞，心裡就輕視他。你看到別人很投入地做一件你看不太順眼的事時，心裡最先在意的是什麼？
 
-大衛脫下王袍、和大家一起踴躍跳舞，米甲的輕視沒有讓他停下來，因為他在乎的是約櫃回來了——神要住在百姓中間。
+米甲看見的是「大衛王踴躍跳舞」（v29），她在意的是大衛有沒有王該有的樣子。大衛和百姓在意的是約櫃進了大衛城、神與他們同在，所以一同歡喜 [3]。
 
 ---
 
@@ -76,3 +76,5 @@
 [1] Blue Letter Bible，Matthew Henry《Commentary on 1 Chronicles 15》，https://www.blueletterbible.org/comm/mhc/1Ch/1Ch_015.cfm
 
 [2] Enduring Word，David Guzik《1 Chronicles 15 – The Ark Is Brought to Jerusalem》，https://enduringword.com/bible-commentary/1-chronicles-15/
+
+[3] 華人基督徒查經資料網站，《歷代志上聖經綜合解讀》（代上十五29），https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT15.htm
