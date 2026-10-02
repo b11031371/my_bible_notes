@@ -54,7 +54,7 @@ David had already written that horses can't save anyone — and then a thousand 
 
 ## IV. Reflection Question
 
-When was the last time you won something — a game, a test, a project you finally got done? When you told people about it afterward, did you mention anyone who helped you?
+When was the last time you won something — a game, a test, a project you finally got done? Looking back at that win, where do you think it came from?
 
 David won battle after battle, and the only conclusion the text gives is one line: "So the LORD preserved David wherever he went" — not one of those victories was something he pulled off on his own.
 
