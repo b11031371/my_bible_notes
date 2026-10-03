@@ -56,9 +56,9 @@ It is common enough for someone to look impressive in public and then treat thei
 
 ## IV. Reflection Question
 
-Think of something you finished this month that people praised you for. Whatever came out of it—a grade, a prize, other people's attention—what did you end up doing with it?
+The last time you gave something of yours away—your allowance, a snack, an afternoon of your time—what did you give, and who did you give it to?
 
-After David won his battles, he dedicated every piece of the gold and silver he received to the Lord, because he knew those victories were given to him by God, not won by himself.
+David dedicated all the gold and silver articles he took in battle to the Lord, keeping not one piece for himself.
 
 ---
 
