@@ -61,9 +61,9 @@ The Syrians couldn't accept one loss, so they doubled their forces and came back
 
 ## IV. Reflection Question
 
-Before the fighting started, Joab did some very concrete things: he picked his best troops, split the army in two, arranged with Abishai to help each other, and only then said, "May the Lord do what is good in His sight." Think about your last test or game — what did you actually do to prepare, and how did you handle the wait before the result came out?
+Before the fighting started, Joab did some very concrete things: he picked his best troops, split the army in two, and arranged with Abishai that whichever side was outmatched would get help. Think about your last test, game, or presentation — what did you actually do to get ready?
 
-Joab did everything he could do first, and then left the win or the loss with God — and that day the Syrians and the Ammonites both fled before Israel, because the outcome was in God's hands the whole time.
+Joab finished all of that first, and only then said, "May the Lord do what is good in His sight" — he did everything he could, then left the win or the loss with God, and that day the Syrians and the Ammonites both fled before Israel.
 
 ---
 
