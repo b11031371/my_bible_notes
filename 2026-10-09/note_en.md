@@ -55,9 +55,9 @@ David didn't blame anyone else. He said, "I'm the one who sinned — these sheep
 
 ## IV. Reflection Question
 
-The last time you did something wrong and knew you'd be punished, did you hide first, or go and admit it to someone? Who did you go to, and why them?
+The last time you did something wrong, who was the first person you went to? How did you face the consequences?
 
-David knew he had sinned, yet he chose to "fall into the hand of the Lord" because God's mercies are very great — and God did say, "It is enough." Sin has consequences, but God's mercy is bigger than the punishment.
+When David faced punishment, he chose to "fall into the hand of the LORD, for His mercies are very great" (v13). Just as the angel was about to destroy Jerusalem, God said, "It is enough; now restrain your hand" (v15). God's mercy is greater than His punishment.
 
 ---
 
