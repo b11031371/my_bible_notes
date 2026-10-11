@@ -103,7 +103,7 @@ Right in the middle of a long list of washing and baking chores sits "stand morn
 
 This week, whose "hands" were you — what's one small thing you did to help them?
 
-The Levites' chores, like washing vessels and baking bread, sit on the same duty list as morning and evening praise (vv. 28–30). Behind-the-scenes help counts as serving God in His house too.
+In verse 28, the word for "serve" literally means "hand." As the priests' hands, the Levites washed vessels, baked bread, and kept the measures. These chores looked small, yet the passage calls them "the work of the service of the house of God."
 
 ---
 
