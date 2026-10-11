@@ -101,9 +101,9 @@ Right in the middle of a long list of washing and baking chores sits "stand morn
 
 ## IV. Reflection Question
 
-This week, when you were someone's helper, what was one thing you set up or cleaned up (setting the table, moving chairs, tidying a classroom)? What was going through your mind while you did it?
+Since you woke up this morning, what's one thing you could thank God for?
 
-The Levites stopped carrying the tabernacle and became the priests' "hands" — washing vessels, baking bread, keeping the measures — and the passage puts these chores on the same duty list as morning and evening praise: in God's eyes, this behind-the-scenes work all counts as serving Him in His house.
+In the Levites' list of duties, right between washing vessels and baking bread, is this line: "to stand every morning to thank and praise the LORD, and likewise at evening" (v. 30). However busy or ordinary the day gets, thanking God is part of the daily work too.
 
 ---
 
