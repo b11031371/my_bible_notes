@@ -99,7 +99,7 @@ Casting lots put experienced teachers and brand-new students on the same line, s
 
 ## IV. Reflection Question
 
-The last time you sang worship songs at church or youth group, what was going through your mind?
+When you sing worship songs at church, what do you usually pay attention to?
 
 In David's day, the singers' music was called "prophesying" — what came out of their mouths was God's word, and every line was thanks and praise to the Lord.
 
