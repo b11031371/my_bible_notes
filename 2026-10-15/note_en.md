@@ -49,40 +49,40 @@
 
 ## II. Key Summary
 
-- The passage lists three families of gatekeepers: Meshelemiah of the Korahites (18 sons and brothers), Obed-Edom (62 descendants—the text adds "for God blessed him"), and Hosah of the Merarites (13 in all), and calls them "able men with strength for the work."
-- These chief gatekeepers served in the house of the Lord just like their brothers, and they cast lots for each gate, "the small as well as the great," family by family.
-- The lots gave the East Gate to Shelemiah, the North Gate to Zechariah, the South Gate to Obed-Edom, the storehouse to his sons, and the West Gate to Shuppim and Hosah; each day there were six Levites on the east, four on the north, four on the south, two by two at the storehouse, four on the western highway, and two at the Parbar.
+- The passage lists three families of gatekeepers: Meshelemiah of the Korahites (18 sons and brethren), Obed-Edom (62 descendants), and Hosah of the Merarites (13 in all). They are described as "men of great ability" and "able men with strength for the work."
+- These chief gatekeepers had duties just like their brethren, to serve in the house of the Lord; they cast lots for each gate, "the small as well as the great," according to their father's house.
+- Shelemiah drew the East Gate; his son Zechariah, "a wise counselor," the North Gate; Obed-Edom the South Gate and his sons the storehouse; Shuppim and Hosah the West Gate. Each day there were six Levites on the east, four on the north, four on the south, two by two at the storehouse, four on the highway and two at the Parbar.
 
 ---
 
 ## III. Passage Analysis
 
-### Guarding a Gate Is Serving God
+### Guarding the Gate Protects God's House and People
 
-> "As God's people pay proper attention to their status as a worshipping community, the distinction between the sacred and the secular disappears. All tasks, whether mundane or specialized, 'religious' or 'lay', have value in the eyes of God." [1]
+> The gatekeepers had to protect the temple from intrusion, and also protect the Israelites from wandering into the temple and being struck by God (Numbers 3:10). [1]
 
-Standing at a gate doesn't sound as important as offering sacrifices or leading worship, but the passage says these men served "just like their brethren." Up front or behind the scenes, it all counts with God.
+The passage assigns people to every spot: six on the east, four on the north, four on the south, plus the storehouse, the highway, and the Parbar (vv. 17–18). The people at the gates were guarding God's house, and they were also protecting everyone who came to it.
 
 ---
 
-### Whatever Gate the Lot Gives You
+### Guarding the Gate Takes Strength and Wisdom
 
-> "The gatekeeping posts were assigned to each 'father's house' regardless of age, ability, or experience—'small as well as great, they cast lots by their father's house for each gate.'" [2]
+> There were porters appointed to attend the temple, who guarded all the avenues that led to it, opened and shut all the outer gates and attended at them, not only for the state, but for service, to direct and instruct those who were going to worship in the courts of the sanctuary in the decorum they were to observe, to encourage those that were timorous, to send back the strangers and unclean, and to guard against thieves and others that were enemies to the house of God. [2]
 
-Who got the East Gate and who got the storehouse wasn't decided by who was older or more impressive—it was left to God. In God's house, your place isn't something you win by status; it's something God gives you.
+Gatekeepers had to stop some people, and also guide and encourage others. That is why the passage calls them "men of great ability" and "able men with strength for the work," and calls Zechariah "a wise counselor" (vv. 6, 8, 14). The job needed strength, and it needed wisdom.
 
 ---
 
 ## IV. Reflection Question
 
-The gatekeepers guarded whatever gate the lot gave them. Think of the last time you were assigned a job nobody notices—sweeping, stacking chairs, standing at the door. What did you actually do?
+Gatekeepers stopped people from wandering into the temple by mistake. If you saw a friend about to walk into something that would hurt them, what would you do?
 
-The passage says the gatekeepers served "in the house of the Lord" just like their brothers: guarding one gate was serving God as much as the work up front, and what God looks at is whether you kept the gate He gave you.
+The gatekeepers stood at the gates to guard God's house and to protect the Israelites from wandering in and being struck [1]. And "happy are those who dwell in God's house... they are well guarded": men attended at the gates of the temple, but angels attend at the gates of the New Jerusalem (Revelation 21:12) [2].
 
 ---
 
 ## References
 
-[1] Enduring Word, David Guzik, "1 Chronicles 26 – The Gatekeepers for the Temple" (quoting Selman), https://enduringword.com/bible-commentary/1-chronicles-26/
+[1] Chinese Christian Bible Study Resources (ccbiblestudy.org), 《歷代志上聖經綜合解讀》 (1 Chronicles Comprehensive Commentary), https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT26.htm
 
-[2] Chinese Christian Bible Study Resources (ccbiblestudy.org), "1 Chronicles 26 Notes" (Comprehensive Commentary on 1 Chronicles), https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT26.htm
+[2] Blue Letter Bible, Matthew Henry, Commentary on the Whole Bible, 1 Chronicles 26, https://www.blueletterbible.org/comm/mhc/1Ch/1Ch_026.cfm
