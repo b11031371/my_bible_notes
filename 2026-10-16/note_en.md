@@ -63,9 +63,9 @@ Chenaniah and his sons served over Israel outside Jerusalem (v. 29), and Hashabi
 
 ## IV. Reflection Question
 
-Chenaniah and his sons served as officials and judges "outside Jerusalem," away from the temple. Pick one thing you will do outside church tomorrow. How will you do it?
+Chenaniah and his sons served as officials and judges "outside Jerusalem," away from the temple. Are you willing to take on "outside" work, like a business trip, cleaning an outdoor area at school, or joining a church outreach?
 
-Chenaniah and his sons served Israel outside Jerusalem, and King David made Jerijah's brethren officials over the tribes east of the Jordan (vv. 29, 32); the ability and the chance to serve are free gifts (1 Cor 4:7), and what they did outside the temple Scripture calls "every matter pertaining to God and the affairs of the king" [2].
+The chance to serve is a free gift (1 Cor 4:7); what Chenaniah and his sons did outside the temple, Scripture calls "every matter pertaining to God and the affairs of the king" [2].
 
 ---
 
