@@ -67,32 +67,36 @@
 
 ## III. Passage Analysis
 
-### Twelve Months, Twelve Divisions Taking Turns
+### What the Father Didn't Finish, the Son Carried On
 
-> The militia was divided into twelve divisions, each serving one month a year. This arrangement both kept the people from being worn out and gave all of them the chance to train and serve; and whenever an emergency arose, the whole people could be mobilized. [1]
+> He took up his father's work: although his father never saw David's unified kingdom with his own eyes, he himself did his part for the unification of the kingdom of Israel. [1]
 
-Verse 1 says the divisions "came in and went out month by month throughout all the months of the year," and verses 2–15 run from the first month to the twelfth, with twenty-four thousand in every division. Across the twelve months, every division had its own month.
+Verse 7 names the captain of the fourth month as "Asahel the brother of Joab," and adds "and Zebadiah his son after him." Asahel was struck down by Abner in 2 Samuel 2:23, before David was anointed king over Israel (2 Sam. 5:3).
+
+The day Asahel never saw, his son stood in the captain's place.
 
 ---
 
-### Countless Because God Promised
+### Abner's Son Among the Leaders
 
-> To the general Oriental prejudice against numbering possessions, etc., there was added in the case of the Jews a special objection - a feeling that it would be irreverent to attempt to count what God had promised should be countless. [2]
+> Though Abner was David's enemy, and opposed his coming to the throne, yet David would not oppose the preferment of his son, but perhaps nominated him to this post of honour, which teaches us to render good for evil. [2]
 
-David did not number those twenty and under, and the reason the text gives is that "the Lord had said He would multiply Israel like the stars of the heavens" (v. 23); Joab began a census, wrath came upon Israel, he did not finish, and the number was never recorded in the chronicles of King David (v. 24). How many Israel would become was the Lord's promise.
+Abner sided with the house of Saul in its war with the house of David (2 Sam. 3:6), and only later made a covenant with David (2 Sam. 3:12–13).
+
+The son of a man who once stood on the other side is listed among "the leaders of the tribes of Israel" (vv. 21–22).
 
 ---
 
 ## IV. Reflection Question
 
-The last time you stopped to count how much you "have," what were you counting? And after you counted, what did you do?
+If you were the one handing out jobs, and one of the people had once been on the opposite side from you, how would you place him?
 
-Joab began a census, did not finish, and the number was never recorded in the chronicles of King David (v. 24); how many Israel would become, the Lord had already promised: "He would multiply Israel like the stars of the heavens" (v. 23). The New Testament says we are "being fitted together" in Christ and grow "into a holy temple in the Lord" (Eph. 2:21) [1].
+Abner had fought for the house of Saul against the house of David (2 Sam. 3:6); in this list, his son Jaasiel stands among the leaders of the tribes of Israel (vv. 21–22).
 
 ---
 
 ## References
 
-[1] Chinese Christian Bible Study Resources (ccbiblestudy.org), "Gleanings on 1 Chronicles 27" (*A Comprehensive Interpretation of 1 Chronicles*), https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT27.htm
+[1] Chinese Christian Bible Study Resources (ccbiblestudy.org), "Gleanings on 1 Chronicles 27" (*Bible Intensive Study Edition*), https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT27.htm
 
-[2] BibleHub.com, Barnes' Notes on the Bible (1 Chronicles 27:23), https://biblehub.com/commentaries/1_chronicles/27-23.htm
+[2] Blue Letter Bible, Matthew Henry's Commentary (1 Chronicles 27), https://www.blueletterbible.org/comm/mhc/1Ch/1Ch_027.cfm
