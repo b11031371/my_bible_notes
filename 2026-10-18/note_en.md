@@ -63,7 +63,7 @@ Farming, herding, and service in the temple all aimed at the same goal: building
 
 What is one thing someone else has put in your charge right now, and how have you taken care of it?
 
-Just as Paul, teaching the church in Ephesus, called Jesus Christ the chief cornerstone, in whom "the whole building, being fitted together, grows into a holy temple in the Lord" (Eph. 2:20-21), the treasuries, fields, vineyards, and herds in these twelve men's hands were all entrusted to them by the king; the passage says, "All these were the officials over King David's property" (v. 31) [2].
+Just as Paul, teaching the church in Ephesus, called Jesus Christ the chief cornerstone, in whom "the whole building, being fitted together, grows into a holy temple in the Lord" (Eph. 2:20-21), the treasuries, fields, vineyards, and herds in these twelve men's hands were all entrusted to them by the king (v. 31). Both are called a temple: the physical temple David wanted to build was, by God's will, entrusted to Solomon (1 Chr. 22:6-10), while believers are built into a temple through Jesus; whatever work or service they are entrusted with, Christ should be the one in charge [2].
 
 ---
 
