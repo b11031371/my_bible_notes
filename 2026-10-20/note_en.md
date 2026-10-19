@@ -63,9 +63,9 @@ God promised not to leave Solomon until the work of the house of the Lord was fi
 
 ## IV. Reflection Question
 
-If you took on a huge job and were afraid you could never finish it, what would you do?
+A friend facing something hard comes to ask you for help, and you remember that the Bible talks about what to do. How would you answer them?
 
-Solomon was taking on a huge job: building the temple from the plans the Lord had made David understand (v. 19). David told him, "do not fear," because God would be with him; the New Testament gives the same promise to believers (Heb. 13:5), and believers can be strong because God Himself takes charge of His own work [2]. God's promise was: "He will not leave you nor forsake you, until you have finished all the work for the service of the house of the Lord." (v. 20)
+David gave Solomon the plans for the temple one by one, from the vestibule and the treasuries down to the weight of every gold and silver bowl (vv. 11–17); he followed the Spirit's direction in every detail and became an example of obedience [2]. "All this," said David, "the Lord made me understand in writing, by His hand upon me, all the works of these plans." (v. 19)
 
 ---
 
