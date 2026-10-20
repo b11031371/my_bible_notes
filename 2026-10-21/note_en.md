@@ -59,9 +59,9 @@ Willing giving led to joy.
 
 ## IV. Reflection Question
 
-If someone asks, "Who is willing to help out today?" what would you do?
+Beyond what you're supposed to do, what extra would you do for someone or something you really love?
 
-David asked the assembly the same kind of question: "Who then is willing to consecrate himself this day to the Lord?" The leaders offered willingly, and "the people rejoiced … and King David also rejoiced greatly" (vv. 5–9).
+"Over and above all that I have prepared for the holy house," David gave his own treasure, "because I have set my affection on the house of my God" (v. 3). His giving started with the affection in his heart.
 
 ---
 
