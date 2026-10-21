@@ -45,7 +45,7 @@
 
 In verse 14 David asks, “Who am I, and who are my people, that we should be able to offer so willingly as this?” Then he answers his own question: “For all things come from You.”
 
-As the commentary reads it, David counts even the willing heart among the things that come from God.
+So for David, even the willing heart comes from God.
 
 ---
 
@@ -61,9 +61,9 @@ In a moment of joy, David asks God to keep that heart in place.
 
 ## IV. Reflection Question
 
-If you had just given your own allowance or time to help someone, and everyone was praising you, what would you do?
+If you did someone a big favor and everyone said you were amazing, how would you respond to the praise?
 
-David and the people had just willingly offered great amounts of gold and silver, and David blessed the LORD before all the assembly, saying, “All things come from You, and of Your own we have given You.” (v. 14)
+After David and the people had offered so much, David said, “But who am I, and who are my people, that we should be able to offer so willingly as this? For all things come from You.” (v. 14)
 
 ---
 
