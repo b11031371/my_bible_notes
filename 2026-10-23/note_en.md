@@ -41,13 +41,13 @@
 
 ## III. Passage Analysis
 
-### One Steps Up, One Steps Away
+### "The Second Time": The Fight for the Throne Ends
 
-> "These verses bring king Solomon to his throne and king David to his grave. Thus the rising generation thrusts out that which went before, and says, 'Make room for us.' Every one has his day." [1]
+> "The anointing of Solomon and the coronation ceremony were to declare to all the officials and the people: ① the hidden struggle over the succession to the throne had ended; ② Solomon inherited the throne of Israel as the one chosen by God." [1]
 
-Verse 23 says Solomon reigned "as king instead of David his father," and verse 28 says David "died ... and Solomon his son reigned in his place." In one short passage, one man takes the throne and another finishes his life.
+Verse 22 says they made Solomon king "the second time," which means he had been anointed once before (the first anointing is recorded in 1 Kings 1:39). Verse 24 makes a point of recording that "all the sons of King David, submitted themselves to King Solomon."
 
-David's days came to an end, and the throne passed to the next generation.
+After this second anointing, even David's sons submitted, and the fight for the throne came to an end.
 
 ---
 
@@ -63,14 +63,14 @@ The person on the throne changed, but the throne was always the LORD's.
 
 ## IV. Reflection Question
 
-If you had to take over a role someone else left behind, what is the first thing you would do?
+If you had the chance to take on an important leadership role at school, work, or church (like class leader, manager, or small group leader), how would you see it? What role do you think you would be playing?
 
-Solomon also took over his father David's place; he sat on "the throne of the LORD," all Israel obeyed him, and the LORD exalted him exceedingly. David died, but the throne still belonged to God, and His purpose still continued [2].
+Solomon sat on "the throne of the LORD" (v. 23), and it was the LORD who exalted him exceedingly (v. 25). The person on the throne changed, but the throne still belonged to God [2].
 
 ---
 
 ## References
 
-[1] Blue Letter Bible, Matthew Henry's Commentary (1 Chronicles 29), https://www.blueletterbible.org/comm/mhc/1Ch/1Ch_029.cfm
+[1] 華人基督徒查經資料網站 (Chinese Christian Bible Study), 《聖經精讀本》 (1 Chronicles 29 Gleanings), https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT29.htm
 
 [2] 華人基督徒查經資料網站 (Chinese Christian Bible Study), 《歷代志上聖經綜合解讀》 (1 Chronicles 29 Gleanings), https://www.ccbiblestudy.org/Old%20Testament/13%201Chro/13GT29.htm
