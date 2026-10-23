@@ -63,26 +63,24 @@ She calls herself dark, and he calls her fair.
 
 ---
 
-### His "Name" Is Who He Is
+### "Draw Me Away"
 
-> "The first line and the second line are synonymous parallelism, so 'ointment' means 'name.' In the Bible, a name often reflects the person's character and bearing." [2]
+> "Draw me away: This was the logical desire of a woman so taken with loving desire towards her beloved. She wanted to be with him, and to be one with him." [1]
 
-Verse 3 puts "the fragrance of your good ointments" right next to "your name is ointment poured forth," and then says "therefore the virgins love you." In verse 4 she adds, "Rightly do they love you."
+At the start of the chapter she says, "Draw me away! We will run after you." In the middle she asks him where he feeds his flock and where he makes it rest at noon. At the end she says, "Our bed is green. The beams of our houses are cedar, and our rafters of fir." At the start she asks him to draw her; by the end she is already speaking of "our" bed and "our" houses.
 
-His "name" stands for who he is, and she says the virgins are right to love him.
+Again and again in this chapter, she voices the same longing: to be with him.
 
 ---
 
 ## IV. Reflection Question
 
-If someone looked down on you because of something about your appearance (like being tanned by the sun), how would you see yourself?
+If there were a love you really wanted to pursue, would you care more about what people around you say and how they look at you, or about how you look in "that person's" eyes?
 
-She asks not to be looked upon because the sun has tanned her, yet she still says "I am dark, but lovely" (vv. 5-6); and her beloved says to her, "Behold, you are fair, my love! Behold, you are fair!" (v. 15).
+She tells the daughters of Jerusalem, "I am dark, but lovely," and asks them not to look upon her because the sun has tanned her; at the same time she asks the one she loves, "Where you feed your flock, where you make it rest at noon." And he answers her, "O fairest among women" (vv. 5-8).
 
 ---
 
 ## References
 
 [1] Enduring Word, David Guzik, Song of Solomon 1 – "Rightly Do They Love You", https://enduringword.com/bible-commentary/song-of-solomon-1/
-
-[2] Chinese Christian Bible Study Resources (ccbiblestudy.org), 聖經精讀本 (Song of Songs Chapter 1 Notes), https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT01.htm
