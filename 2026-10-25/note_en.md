@@ -45,44 +45,44 @@
 
 ## II. Key Summary
 
-- She says, "I am the rose of Sharon, and the lily of the valleys"; he says she is like a lily among thorns among the daughters; she says he is like an apple tree among the trees of the woods among the sons (vv. 1-3).
-- She says, "He brought me to the banqueting house, and his banner over me was love," and charges the daughters of Jerusalem, "Do not stir up nor awaken love until it pleases" (vv. 4-7).
-- Her beloved comes leaping upon the mountains, stands behind the wall, and twice tells her, "Rise up, my love, my fair one, and come away," for the winter is past; she says, "My beloved is mine, and I am his" (vv. 8-16).
+- The two compare each other to things in nature: she calls herself "the rose of Sharon, and the lily of the valleys"; he says she is "like a lily among thorns" among the daughters; she says he is "like an apple tree among the trees of the woods" among the sons (vv. 1–3).
+- She says, "He brought me to the banqueting house, and his banner over me was love," then charges the daughters of Jerusalem: "Do not stir up nor awaken love until it pleases." (vv. 4–7)
+- She hears her beloved coming, "leaping upon the mountains," and says, "My beloved spoke, and said to me"; in what follows, "Rise up, my love, my fair one, and come away" appears twice. The chapter ends with her words: "My beloved is mine, and I am his." (vv. 8–17)
 
 ---
 
 ## III. Passage Analysis
 
-### "Rise Up and Come Away"
+### Until It Pleases
 
-> "The repetition denotes backwardness in her (we have need to be often called to come away with Jesus Christ; precept must be upon precept and line upon line), but it denotes earnestness in him." [1]
+> "'Until it pleases' means love should follow its natural course; only love that is willing is true love." [1]
 
-In verse 10 her beloved says, "Rise up, my love, my fair one, and come away," and in verse 13 he says the exact same words again. In between, he tells her that "the winter is past, the rain is over and gone," the flowers appear, and the voice of the turtledove is heard.
+"Do not stir up nor awaken" means not pushing or rushing, but letting love come in its own time (v. 7). When he invites her to come away, he also speaks of the timing: the winter is past, the flowers appear; but the figs are still "green figs," and the vines have only "tender grapes" (vv. 11–13, 15).
 
-He gives the same invitation twice.
+The flowers have come; the fruit is not yet ripe.
 
 ---
 
-### Catching the Little Foxes
+### "Rise Up and Come Away"
 
-> "Both of them are determined to stop anything that would damage this relationship." [2]
+> "It was important for her to know that he really wanted to do this with her and did not do it reluctantly, as if he were simply willing to make himself miserable if it could please her. It was important for her to know that he really did simply want to be with her." [2]
 
-Verse 15 says, "Catch us the foxes, the little foxes that spoil the vines," using the word "us." The reason given is "for our vines have tender grapes."
+He gives his invitation twice, and says he wants to see her face and hear her voice (vv. 10, 13, 14). These are all his words as she retells them.
 
-The vines have tender grapes, so the little foxes must be caught.
+What she needs to be sure of is that he truly wants to be with her.
 
 ---
 
 ## IV. Reflection Question
 
-When someone says to you, "Get up and come with me," what keeps you from getting up?
+If you really like someone, what is one thing you'd be willing to wait for instead of rushing it?
 
-In verse 10 her beloved tells her, "Rise up and come away," and in verse 13 he says it again, telling her in between that "the winter is past, the rain is over and gone." By verse 16 she says, "My beloved is mine, and I am his."
+She is so in love that she says, "I am lovesick" (v. 5), yet what she tells the daughters of Jerusalem is "Do not stir up nor awaken love until it pleases" (v. 7). When her beloved comes to invite her, the figs are still green and the vines have only tender grapes (vv. 13, 15); and at the end of the chapter, what she says to him is still, "Until the day breaks and the shadows flee away, turn, my beloved…" (v. 17).
 
 ---
 
 ## References
 
-[1] Blue Letter Bible, Matthew Henry, *Commentary on Song of Songs 2*, https://www.blueletterbible.org/Comm/mhc/Sgs/Sgs_002.cfm
+[1] Chinese Christian Bible Study Resources (ccbiblestudy.org), Gleanings on Song of Solomon 2 (*Chi Dao Study Bible Commentary*), https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT02.htm
 
-[2] Chinese Christian Bible Study Resources (ccbiblestudy.org), Gleanings on Song of Solomon 2 (*Ryrie Study Bible*), https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT02.htm
+[2] Enduring Word, David Guzik, *Song of Solomon 2*, https://enduringword.com/bible-commentary/song-of-solomon-2/
