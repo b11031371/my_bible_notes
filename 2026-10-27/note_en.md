@@ -75,7 +75,7 @@ The enclosed garden is opened when she gives it to him with her own words.
 
 In the kind of relationship you hope for, how would two people talk to each other and treat each other?
 
-The bridegroom tells his bride, "How fair is your love… How much better than wine is your love" (v. 10), words she had once said to him (1:2). In v. 16 she answers him: "Let my beloved come to his garden." Each one responds to the other, and their love moves forward as both of them freely choose it. [1]
+The bridegroom tells his bride, "How fair is your love… How much better than wine is your love" (v. 10), words she had once said to him (1:2). In v. 16 she answers him: "Let my beloved come to his garden." Within the security of marriage the two of them respond to each other and enjoy the sweetness of this blessing, and their love moves forward as both of them freely choose it. [1]
 
 ---
 
