@@ -51,36 +51,34 @@
 
 ## III. Passage Analysis
 
-### "You Are All Fair"
+### Words Spoken First
 
-> "After giving a seven-fold description of his maiden's beauty, the beloved summarizes his observations. She was more than fair; she was all fair, and there was no spot in her." [1]
+> "The beloved began not with aggressive or selfish actions, but with tender and confidence building words to his maiden." [1]
 
-In v. 1 he says, "Behold, you are fair! Behold, you are fair!" Then he goes from her eyes, hair, teeth, and lips all the way to her neck and breasts (vv. 1–5). After all that, in v. 7 his words become "all fair… there is no spot in you."
+From v. 1 to v. 15, he is the one speaking. First he names her beauty one part at a time (vv. 1–7). Then he says "with me" twice, asking her to come with him (v. 8). After that he tells her, "You have ravished my heart" (v. 9).
 
-He looked at her one part at a time, and his conclusion was "all."
+Step by step, he comes near her with words, and only in v. 16 does she speak.
 
 ---
 
-### "A Garden Enclosed"
+### From "My Garden" to "His Garden"
 
-> "'Enclosed,' 'shut up,' 'sealed': these refer to the bride's chastity." [2]
+> "A line before, the maiden called it "my garden"; now it was his garden." [1]
 
-Verse 12 uses three pictures in a row: a garden enclosed, a spring shut up, a fountain sealed. In v. 16 she first says, "Blow upon my garden," and then, "Let my beloved come to his garden."
+In v. 12 he calls her "a garden enclosed," a garden shut and locked. In v. 16 she first says, "Blow upon my garden," and then, "Let my beloved come to his garden." It is the same garden: one line calls it "mine," and the next calls it "his."
 
-The garden that was enclosed is opened when she herself asks her beloved to come in.
+The enclosed garden is opened when she gives it to him with her own words.
 
 ---
 
 ## IV. Reflection Question
 
-Think of someone you care about. What about them looks fair to you? What would you do to let them know?
+In the kind of relationship you hope for, how would two people talk to each other and treat each other?
 
-The bridegroom, facing his bride, goes from her eyes and hair all the way to her neck, naming her beauty one part at a time (vv. 1–5); when he finishes, he says, "You are all fair, my love, and there is no spot in you" (v. 7).
+The bridegroom tells his bride, "How fair is your love… How much better than wine is your love" (v. 10), words she had once said to him (1:2). In v. 16 she answers him: "Let my beloved come to his garden." Each one responds to the other, and their love moves forward as both of them freely choose it. [1]
 
 ---
 
 ## References
 
 [1] Enduring Word, David Guzik, Commentary on Song of Solomon 4, https://enduringword.com/bible-commentary/song-of-solomon-4/
-
-[2] Chinese Christian Bible Study Resources (ccbiblestudy.org), Gleanings on Song of Solomon 4 (*Chain-Reference Bible Commentary* / 《串珠聖經註釋》), https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT04.htm
