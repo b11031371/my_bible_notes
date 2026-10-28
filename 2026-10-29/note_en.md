@@ -45,32 +45,36 @@
 
 ## III. Passage Analysis
 
-### "I Am My Beloved's" — The Order Is Reversed
+### Both of Them Return to Their First Words
 
-> In Song of Solomon 2:16 the maiden said: My beloved is mine, and I am his. Here she says, I am my beloved's, and my beloved is mine. Some people note that in the first the emphasis is on what belongs to her; in the second the emphasis is on whom she belongs to. [1]
+> The bride once again declares her first love (2:16). … The bridegroom also declares his first love (4:1–9). [1]
 
-In 2:16 she starts with "My beloved is mine"; in 6:3 she flips the order and starts with "I am my beloved's." The daughters asked, "Where has your beloved gone?" She first says where he is (6:2). Then what she says out loud is whom she belongs to.
+In 6:3 she says "I am my beloved's," the words of 2:16 in reverse order. In 6:5–7 he praises her with the goats, the sheep, and the pomegranate, the same pictures he used in 4:1–3. They were apart in 5:6, and in this chapter, when each of them speaks, they say the words from the beginning.
+
+After being apart, both of them come back to their first love.
 
 ---
 
-### After the Separation, the Same Words
+### In Chapter 5 She Praises Him; in Chapter 6 He Praises Her
 
-> These words of praise are the same as what Solomon said to her on their wedding night. [2]
+> As she exalted Him above all others (So 5:10), so He now her. [2]
 
-The flock of goats, the sheep, and the pomegranate in verses 5–7 are the same pictures used in 4:1–3. Between those two passages stands 5:6: "My beloved had turned away and was gone." They were apart once, and when he speaks again, he says the very same words.
+In 5:9 the daughters ask what makes her beloved "more than another beloved," and she answers that he is "chief among ten thousand," describing him from head to foot (5:10–16). In 6:8–9 it is his turn: there are queens, concubines, and virgins without number, but she "is the only one," and the daughters and the queens call her blessed and praise her.
+
+In chapter 5 she says he stands above ten thousand; in chapter 6 he says she is the only one.
 
 ---
 
 ## IV. Reflection Question
 
-If you just had a falling-out with a close friend, how would you address them, and what would be the first thing you say when you see them next?
+What makes the person you like or have feelings for most better than anyone else? And if it were their turn, what do you think they would say is good about you?
 
-When the bride opened the door in 5:6, her beloved had already turned away and gone. When he speaks again in this passage, he repeats the words of 4:1–3, and he still calls her what he called her in 5:2: "My dove, my perfect one" (6:9).
+When the daughters asked the bride, "What is your beloved more than another beloved?" she said he was "chief among ten thousand" (5:9–10). In this chapter it is his turn to lift her up: there are queens and concubines without number, but "my dove, my perfect one, is the only one" (6:8–9).
 
 ---
 
 ## References
 
-[1] Enduring Word, David Guzik, Commentary on Song of Solomon 6, https://enduringword.com/bible-commentary/song-of-solomon-6/
+[1] 華人基督徒查經資料網站 (Chinese Christian Bible Study Resources), Song of Solomon 6 notes (《聖經精讀本》), https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT06.htm
 
-[2] 華人基督徒查經資料網站, Song of Solomon 6 notes (《雷氏研讀本》, Chinese Ryrie Study Bible), https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT06.htm
+[2] BibleHub, Jamieson-Fausset-Brown Bible Commentary (Song 6:9), https://biblehub.com/commentaries/songs/6-9.htm
