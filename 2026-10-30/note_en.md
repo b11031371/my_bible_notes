@@ -49,15 +49,15 @@
 
 > It is my duty to have my desire towards him as my Husband, according to God's sentence, Genesis 3:16, but it is a wonderful condescension in him, that his desire is towards me. [1]
 
-In the Old Testament, the word "desire" appears only here and in Genesis 3:16 and 4:7 [2]. In Genesis 3:16, after people turned away from God, God said to the woman, "Your desire shall be for your husband, And he shall rule over you." In 7:10 the same word points the other way: "his desire is toward me," right after "I am my beloved's."
+Genesis 3:16 sets the woman's desire alongside the husband's rule [2]. In 7:10 the same word points the other way: his desire is toward her. She says, "I am my beloved's," completely secure in his love, not seeing his desire as a demand or a burden [3].
 
-In Genesis, desire came tied to "rule"; here, she belongs to him, and his desire is toward her.
+The desire that once stood beside "rule" has become, here, a love that makes her feel secure.
 
 ---
 
 ### From Spring to Spring
 
-> The poet thus reveals that their relationship has gone from spring to spring, that now it has experienced a full cycle of growth. [3]
+> The poet thus reveals that their relationship has gone from spring to spring, that now it has experienced a full cycle of growth. [4]
 
 In 2:10-13 the beloved came to invite her: "Rise up, my love, my fair one, And come away," when "the winter is past" and "the vines with the tender grapes give a good smell." In 6:11 he went down to the garden himself, "To see whether the vine had budded And the pomegranates had bloomed." In 7:11-12 she is the one saying, "Come, my beloved," asking him to get up early and "see if the vine has budded, Whether the grape blossoms are open, And the pomegranates are in bloom," and she adds, "Which I have laid up for you, my beloved" (v. 13).
 
@@ -69,7 +69,7 @@ It is the same season of budding vines, but the one who was once invited is now 
 
 If the person you love also loves you deeply, what is the best part of yourself you would want to save for them?
 
-The beloved describes her beauty piece by piece (vv. 1-9), and she answers, "I am my beloved's, And his desire is toward me." Then she is the one who invites him. The "pleasant fruits, new and old" at their gates are the same words 4:13 and 4:16 use for her own self; she has had them ready all along, and she tells him, "Which I have laid up for you, my beloved" (vv. 10-13). [4]
+The beloved describes her beauty piece by piece (vv. 1-9), and she answers, "I am my beloved's, And his desire is toward me." Then she is the one who invites him. The "pleasant fruits, new and old" at their gates are the same words 4:13 and 4:16 use for her own self; she has had them ready all along, and she tells him, "Which I have laid up for you, my beloved" (vv. 10-13). [5]
 
 ---
 
@@ -77,8 +77,10 @@ The beloved describes her beauty piece by piece (vv. 1-9), and she answers, "I a
 
 [1] BibleHub, Matthew Poole's Commentary (Song 7:10), https://biblehub.com/commentaries/songs/7-10.htm
 
-[2] Chinese Christian Bible Study Resources (ccbiblestudy.org), Song of Songs 7 Notes (Precise Bible Study Edition), https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT07.htm
+[2] Enduring Word, David Guzik (Genesis 3:16), https://enduringword.com/bible-commentary/genesis-3/
 
-[3] Enduring Word, David Guzik (quoting Glickman, Song 7:12), https://enduringword.com/bible-commentary/song-of-solomon-7/
+[3] Enduring Word, David Guzik (Song 7:10), https://enduringword.com/bible-commentary/song-of-solomon-7/
 
-[4] Chinese Christian Bible Study Resources (ccbiblestudy.org), Song of Songs 7 Notes (Tyndale Old Testament Commentaries), https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT07.htm
+[4] Enduring Word, David Guzik (quoting Glickman, Song 7:12), https://enduringword.com/bible-commentary/song-of-solomon-7/
+
+[5] Chinese Christian Bible Study Resources (ccbiblestudy.org), Song of Songs 7 Notes (Tyndale Old Testament Commentaries), https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT07.htm
