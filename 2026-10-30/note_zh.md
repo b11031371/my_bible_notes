@@ -49,15 +49,15 @@
 
 > 照神在創 3:16 的決定，我本分是要戀慕他、以他為丈夫；他竟然戀慕我，這是他奇妙地放下身段。[1]
 
-「戀慕」這個詞在舊約只出現在這裡和創 3:16、4:7 [2]。創 3:16 是人違背神之後，神對女人說「你必戀慕你丈夫，你丈夫必管轄你」。到了 7:10，同一個詞方向反過來，成了「他也戀慕我」，前面接的是「我屬我的良人」。
+創 3:16 把女人的戀慕和丈夫的管轄放在一起 [2]。到了 7:10，同一個詞反過來，是他戀慕她；她說「我屬我的良人」，在他的愛裡完全安心，不覺得這份戀慕是要求或負擔 [3]。
 
-創世記裡和「管轄」綁在一起的戀慕，到了這裡，是她屬他，他也戀慕她。
+和「管轄」放在一起的戀慕，到了這裡，成了讓她安心的愛。
 
 ---
 
 ### 從春天到春天
 
-> 詩人藉此讓我們看見，他們的關係已經從春天走到了春天，如今經歷了完整的一輪成長。[3]
+> 詩人藉此讓我們看見，他們的關係已經從春天走到了春天，如今經歷了完整的一輪成長。[4]
 
 2:10-13 是良人來邀她：「起來，與我同去」，那時「冬天已往」，「葡萄樹開花放香」。6:11 是他自己下到園中，「要看葡萄發芽沒有，石榴開花沒有」。到了 7:11-12，換她說「我的良人，來吧」，要一起早晨起來「看看葡萄發芽開花沒有，石榴放蕊沒有」，還說「這都是我為你存留的」（13 節）。
 
@@ -69,7 +69,7 @@
 
 如果那個你愛的人也非常愛慕你，你會想把自己最好的哪一部分留給他？
 
-良人一處一處說出她的美（1-9 節），她回應：「我屬我的良人，他也戀慕我。」接著換她開口邀他。門內那些新的、陳的佳美果子，在 4:13、16 說的就是她自己；她早就準備好了，對他說：「這都是我為你存留的。」（10-13 節）[4]
+良人一處一處說出她的美（1-9 節），她回應：「我屬我的良人，他也戀慕我。」接著換她開口邀他。門內那些新的、陳的佳美果子，在 4:13、16 說的就是她自己；她早就準備好了，對他說：「這都是我為你存留的。」（10-13 節）[5]
 
 ---
 
@@ -77,8 +77,10 @@
 
 [1] BibleHub，Matthew Poole's Commentary（歌 7:10），https://biblehub.com/commentaries/songs/7-10.htm
 
-[2] 華人基督徒查經資料網站，雅歌第七章拾穗（《聖經精讀本》），https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT07.htm
+[2] Enduring Word，David Guzik（創 3:16），https://enduringword.com/bible-commentary/genesis-3/
 
-[3] Enduring Word，David Guzik（引 Glickman，歌 7:12），https://enduringword.com/bible-commentary/song-of-solomon-7/
+[3] Enduring Word，David Guzik（歌 7:10），https://enduringword.com/bible-commentary/song-of-solomon-7/
 
-[4] 華人基督徒查經資料網站，雅歌第七章拾穗（《丁道爾聖經注釋》），https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT07.htm
+[4] Enduring Word，David Guzik（引 Glickman，歌 7:12），https://enduringword.com/bible-commentary/song-of-solomon-7/
+
+[5] 華人基督徒查經資料網站，雅歌第七章拾穗（《丁道爾聖經注釋》），https://www.ccbiblestudy.org/Old%20Testament/22Song/22GT07.htm
