@@ -49,17 +49,17 @@ Verse 15 sets "for a while" beside "forever," and verse 16 goes on to say "no lo
 
 ---
 
-### Put That on My Account
+### Writing "I Will Repay" with His Own Hand
 
-> Paul is willing to take on Onesimus's debt. This is similar to Jesus Christ, who took the sin of all humanity upon himself. [2]
+> It was much that Paul, who lived on contributions himself, would undertake to make good all loss by an evil servant to his master; but hereby he expresses his real and great affection for Onesimus, and his full belief of the sincerity of his conversion. [2]
 
-In verse 18 Paul says "put that on my account," and in verse 19 he writes "I will repay" with his own hand; the link to Jesus comes from the commentary. What the passage states plainly is that Paul himself will pay this debt.
+Paul backs this man with his own hand and his own name. His willingness to write these words shows he believes this man has truly changed.
 
 ---
 
 ## IV. Reflection Question
 
-If someone who wronged you or owes you came back to you, what would you do? If someone asked you to receive that person, what would you think?
+If someone asked you to accept a person who wronged you or owes you, what would you do?
 
 Philemon was facing someone just like that (Onesimus, see v. 10). Paul says "receive him as you would me" and "put that on my account," and this man is "no longer as a slave" but "a beloved brother."
 
@@ -69,4 +69,4 @@ Philemon was facing someone just like that (Onesimus, see v. 10). Paul says "rec
 
 [1] Enduring Word, David Guzik, Commentary on Philemon 1, https://enduringword.com/bible-commentary/philemon-1/
 
-[2] Chinese Christian Bible Study Resources (華人基督徒查經資料網站), Shi Qingzhou (石清洲), Chinese Bible Commentary: Philemon, https://www.ccbiblestudy.org/New%20Testament/57Philem/57GT01.htm
+[2] Blue Letter Bible, Matthew Henry, Commentary on Philemon, https://www.blueletterbible.org/comm/mhc/Phm/Phm_001.cfm
