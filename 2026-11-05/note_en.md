@@ -35,36 +35,56 @@
 
 ## III. Passage Analysis
 
-### The Price of a Pair of Sandals
+### The Sudden Turn
 
-> Creditors sold debtors as slaves to recover their debts, even for a debt as small as the price of a pair of sandals. [1]
+> The prophet announces judgment on Israel's enemies, moving from far to near. At first the Israelite listeners must have been delighted, rejoicing and cheering loudly; but then the prophet suddenly turns, and turns to Israel's own sins. [1]
 
-Verse 6 puts "the righteous" next to "silver," and "the poor" next to "a pair of sandals," in the same sentence.
+Verses 1, 4, and 6 use the same line, "For three transgressions … and for four, I will not turn away its punishment": after Moab comes Judah, and after Judah comes Israel.
 
-The price of a poor person was one pair of sandals.
+This circle of judgment finally comes to rest on the people Amos saw these words "concerning" (1:1).
 
 ---
 
-### Clothes and Wine Brought into the Temple
+### Throw Away the True, Grab Hold of the False
 
-> Amos, with wonderful irony, marks the ghastly mixture of sin and worship, "they drank the wine of the amerced" - where? "in the house of their God," … What hard-heartedness to the willfully-forgotten poor is compensated by a little Church-going! [2]
+> Since the word of God brings us truth, when we despise and disobey God's word we naturally embrace and follow lies. You can't reject the truth without grabbing hold of a lie. [2]
 
-Verse 8 names two places: "by every altar" and "in the house of their god." What they lie on is "clothes taken in pledge," and what they drink is "the wine of the condemned."
+Verse 4 has an order: first "they have despised the law of the LORD, and have not kept His commandments," then "their lies lead them astray, lies which their fathers followed."
 
-What they took from other people, they carried right into the place of worship.
+Once they left God's word, what filled the space was "lies," and it had started with the generation before them.
+
+**Note: When did these things happen?**
+
+- **Moab burned the bones of the king of Edom (v. 1):** This event is not recorded in the historical books. It is often linked to 2 Kings 3:26: when Israel, Judah, and Edom joined to attack Moab, the king of Moab "took with him seven hundred men who drew swords, to break through to the king of Edom, but they could not." [3][4]
+- **Judah despised the law of the LORD (v. 4):** When Amos spoke, the king of Judah was Uzziah (1:1). Uzziah had restored true worship, but the hearts of the nation seem to have grown numb, used to going through the motions of worship. [1]
+- **Israel sold the righteous (v. 6):** Jeroboam II "restored the territory of Israel from the entrance of Hamath to the Sea of the Arabah" (2 Kings 14:25), and the nation grew rich; but the wealth led to social apathy, injustice, and neglect of the poor. [5]
+- **Afterward:**
+    - **Moab:** Conquered by Tiglath-pileser III of Assyria. [1]
+    - **Judah:** In 586 B.C., Nebuchadnezzar's army burned Jerusalem. [1][6]
+    - **Israel:** About 40 years after Amos, Assyria attacked Israel and carried the people away (2 Kings 17). [5]
 
 ---
 
 ## IV. Reflection Question
 
-If selling out a classmate who is weaker than you could get you a small reward, as small as a pair of sandals, what would you do?
+Have you ever had this happen: while you were still feeling smug as someone else's faults were pointed out, before long it was your turn to be rebuked?
 
-Israel faced that same trade: they "sell the righteous for silver, and the poor for a pair of sandals," and the Lord said, "I will not turn away its punishment." (v. 6)
+Israel listened as Moab and Judah were named, and at first they must have been cheering [1]; then the same line, "For three transgressions … and for four, I will not turn away its punishment," was given Israel's own name (v. 6) [7].
 
 ---
 
 ## References
 
-[1] 華人基督徒查經資料網站 (Chinese Christian Bible Study), Amos 2 notes (*Chain-Reference Bible Notes*, Amos 2:6), https://www.ccbiblestudy.org/Old%20Testament/30Amos/30GT02.htm
+[1] 華人基督徒查經資料網站 (Chinese Christian Bible Study), Amos 2 notes (Tsai Che-min, study notes; *Ryrie Study Bible* notes), https://www.ccbiblestudy.org/Old%20Testament/30Amos/30GT02.htm
 
-[2] BibleHub, Barnes' Notes on the Bible (Amos 2:8), https://biblehub.com/commentaries/amos/2-8.htm
+[2] Enduring Word, David Guzik (Amos 2:4), https://enduringword.com/bible-commentary/amos-2/
+
+[3] Blue Letter Bible, Matthew Henry Commentary (Amos 2), https://www.blueletterbible.org/comm/mhc/Amo/Amo_002.cfm
+
+[4] BibleHub, Barnes' Notes on the Bible; Cambridge Bible; Jamieson-Fausset-Brown (Amos 2:1), https://biblehub.com/commentaries/amos/2-1.htm
+
+[5] BibleProject, Book of Amos guide, https://bibleproject.com/guides/book-of-amos/
+
+[6] BibleHub, Benson Commentary (Amos 2:4), https://biblehub.com/commentaries/amos/2-4.htm
+
+[7] BibleHub, Barnes' Notes on the Bible (Amos 1:3), https://biblehub.com/commentaries/amos/1-3.htm
