@@ -57,9 +57,9 @@ God's word has been spoken; now it is the hearers' turn.
 
 ## IV. Reflection Question
 
-Think of the person around you who knows you best and reminds you most often. How do you usually take their reminders?
+Think of the person around you who knows you best and reminds you most often. They don't remind you for no reason. How do you usually respond to their reminders?
 
-Of all the families of the earth the Lord knew only Israel, and He said, "therefore I will punish you for all your iniquities" (v. 2); yet before bringing disaster, "Surely the Lord God does nothing, unless He reveals His secret to His servants the prophets" (v. 7).
+Of all the families of the earth, Israel was the only one the Lord knew (v. 2). When calamity comes to a city, it is the Lord who has done it (v. 6); yet before bringing disaster, "Surely the Lord God does nothing, unless He reveals His secret to His servants the prophets" (v. 7).
 
 ---
 
