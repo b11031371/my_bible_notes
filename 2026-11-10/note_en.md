@@ -45,17 +45,17 @@ What the LORD wants the house of Israel to seek is Himself.
 
 > But God tells them that when the fire of his judgments should kindle upon them all the gods they served at Bethel should not be able to quench it, should not turn away the judgment, nor be any relief to them under it. [2]
 
-Verse 5 says Bethel "shall come to nothing," and verse 6 says the fire will burn "with no one to quench it in Bethel." The Bethel they went to seek could not even save itself.
+Verse 5 says Bethel "shall come to nothing," and verse 6 says the fire will burn "with no one to quench it in Bethel."
 
-The same verse opens with the way to life: "Seek the LORD and live."
+When the fire breaks out, the Bethel they went to seek will not even be able to save itself.
 
 ---
 
 ## IV. Reflection Question
 
-When something really stresses you out or scares you, what is the first thing you run to seek? What did you find there?
+If you say you want to "seek God," what is one thing you would actually do?
 
-Israel went to seek Bethel, Gilgal, and Beersheba; God said Bethel "shall come to nothing," and said twice, "Seek the LORD and live."
+God had appeared to their forefathers at Bethel, Gilgal, and Beersheba, so the people of Israel thought that offering sacrifices at these places was seeking God [1]. The seeking the LORD wanted was to hear His word from the prophets and understand His will, because God's word is life [3].
 
 ---
 
@@ -64,3 +64,5 @@ Israel went to seek Bethel, Gilgal, and Beersheba; God said Bethel "shall come t
 [1] Chinese Christian Bible Study Resources (ccbiblestudy.org), *Chain-Reference Bible Commentary* (串珠聖經註釋), Amos 5 notes, https://www.ccbiblestudy.org/Old%20Testament/30Amos/30GT05.htm
 
 [2] Blue Letter Bible, Matthew Henry's Commentary (Amos 5), https://www.blueletterbible.org/comm/mhc/Amo/Amo_005.cfm
+
+[3] Chinese Christian Bible Study Resources (ccbiblestudy.org), *Tien Dao Bible Commentary: Amos* (天道聖經注釋－阿摩司書) by 唐佑之, Amos 5 notes, https://www.ccbiblestudy.org/Old%20Testament/30Amos/30GT05.htm
