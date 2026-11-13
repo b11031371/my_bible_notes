@@ -55,9 +55,9 @@ They boasted that they had taken Karnaim themselves, but God said, "I will raise
 
 ## IV. Reflection Question
 
-If you did really well on a test or won a game, would you think you did it "by your own strength"? Why?
+Think of something you recently pulled off and felt proud of. Which parts of it came "by your own strength," and which didn't?
 
-With strength in their hands, Israel boasted, "Have we not taken Karnaim for ourselves by our own strength?" (v. 13); God said, "I abhor the pride of Jacob," and "I will raise up a nation against you" (vv. 8, 14). [3]
+Israel boasted, "Have we not taken Karnaim for ourselves by our own strength?" (v. 13); but the LORD said, "I will raise up a nation against you." (v. 14)
 
 ---
 
