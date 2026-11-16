@@ -52,19 +52,19 @@ Amos saw fruit, and he heard "the end."
 
 ### "When will the Sabbath be past?"
 
-> They desired that the festivals of the New Moon and Sabbath should be over, when they might not only return to their secular employments, but pursue their search for ill-gotten gains—a proof that these festivals were observed in the northern nation, even if they were disliked. [2]
+> The surrounding cultures had many religious festivals, but only Israel was commanded to keep the Sabbath and stop all work. This restriction on trade caused friction, and evidently also encouraged corrupt business practices to "make up for the loss." [2]
 
-The merchants in verse 5 still kept the New Moon and the Sabbath, but the question on their lips was "When will it be past?"—so they could sell grain and falsify the scales.
+So right after the merchants in verse 5 ask, "When will the Sabbath be past, that we may trade wheat?" comes "making the ephah small and the shekel large."
 
-In verse 10, the Lord says He will turn their feasts into mourning.
+To them a day without work was a loss, and once the feast was over, they made it up with false scales.
 
 ---
 
 ## IV. Reflection Question
 
-If you sat through a church gathering thinking "When will this be over?", what would you be most eager to go do?
+Have you ever sat in a church gathering, checking the time again and again? What were you waiting to go do once it was over?
 
-The Israelites kept the New Moon and the Sabbath, but they were waiting for the feasts to be past so they could make the ephah small and the shekel large (v. 5) [2]; the Lord said, "Surely I will never forget any of their works" (v. 7), and He would turn their feasts into mourning (v. 10).
+They only wanted the Sabbath to be over quickly; but the Lord said, "Surely I will never forget any of their works" (v. 7), and that He would turn their feasts into mourning and their songs into lamentation (v. 10).
 
 ---
 
@@ -72,4 +72,4 @@ The Israelites kept the New Moon and the Sabbath, but they were waiting for the 
 
 [1] Chinese Christian Bible Study Resources (ccbiblestudy.org), Chain Reference Bible Commentary (串珠聖經註釋), Amos 8 notes, https://www.ccbiblestudy.org/Old%20Testament/30Amos/30GT08.htm
 
-[2] BibleHub.com, Ellicott's Commentary for English Readers (Amos 8:5), https://biblehub.com/commentaries/amos/8-5.htm
+[2] Chinese Christian Bible Study Resources (ccbiblestudy.org), *The IVP Bible Background Commentary: Old Testament* (Chinese edition, 舊約聖經背景注釋), Amos 8 notes, https://www.ccbiblestudy.org/Old%20Testament/30Amos/30GT08.htm
