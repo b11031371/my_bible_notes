@@ -52,19 +52,19 @@ When the word was close, no one wanted to hear it; by the time they wanted it, i
 
 ### "The Lord Standing by the Altar"
 
-> "The altar" refers to the altar at Bethel where the golden calf was worshiped. "The Lord standing by the altar": God's judgment begins at the center of idol worship. The people's sacrifices had no real devotion, so the altar became the place of judgment. [2]
+> Before the altar, people could originally receive God's mercy through sacrifice; but the people's sacrifices were hypocritical, so the altar instead became the place where the people were judged. [2]
 
-In 8:14 people swear by the sin of Samaria; in 9:1 the Lord stands by the calf-worship altar and orders the doorposts struck.
+How their sacrifices were hypocritical shows in the verse just before: they swore by the sin of Samaria, by the god of Dan, and by the way of Beersheba (8:14).
 
-The altar should have been a place to ask God for mercy; now it became the place where judgment began.
+Beside the altar where they could have found mercy, the Lord declared, "He who flees from them shall not get away, and he who escapes from them shall not be delivered" (9:1).
 
 ---
 
 ## IV. Reflection Question
 
-When you read the Bible or hear a sermon and run into a line you don't want to hear, what do you usually do with it?
+Think carefully: are there words you don't pay much attention to now, but that you will need someday?
 
-This famine had one cause: they did not hear "the words of the Lord" (v. 11); later they ran to and fro, seeking the word of the Lord, "but shall not find it" (v. 12).
+Amos said, "the days are coming": on that day people will run to and fro, seeking the word of the Lord, but shall not find it (8:11–12).
 
 ---
 
@@ -72,4 +72,4 @@ This famine had one cause: they did not hear "the words of the Lord" (v. 11); la
 
 [1] Chinese Christian Bible Study Resources (ccbiblestudy.org), Ryrie Study Bible (Amos Chapter 8 Notes), https://www.ccbiblestudy.org/Old%20Testament/30Amos/30GT08.htm
 
-[2] Chinese Christian Bible Study Resources (ccbiblestudy.org), Chi Dao Study Bible Commentary (Amos Chapter 9 Notes), https://www.ccbiblestudy.org/Old%20Testament/30Amos/30GT09.htm
+[2] Chinese Christian Bible Study Resources (ccbiblestudy.org), Chain Reference Bible Commentary (串珠聖經註釋), Amos 9 notes, https://www.ccbiblestudy.org/Old%20Testament/30Amos/30GT09.htm
