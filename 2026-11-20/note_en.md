@@ -56,9 +56,9 @@ The sufferings don't have to look identical for the consolation to be shared.
 
 ## IV. Reflection Question
 
-If a close friend were going through a really hard time of trouble, what would you do to comfort them?
+Think about the hardest stretch you have been through—what got you through it? If someone around you is going through a similar trouble, how would you pass that comfort on?
 
-Paul could comfort others because God first comforted him in his tribulation: "that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God," a comfort that is "effective for enduring" (vv. 4, 6).
+God comforts us in all our tribulation, "that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God," a comfort that helps us endure (vv. 4, 6).
 
 ---
 
