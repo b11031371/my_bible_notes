@@ -55,7 +55,7 @@ Both verse 15 and verse 17 say "to God" / "in the sight of God": his plans could
 
 If you kept doing something for others, but it wasn't always accepted, and you were even questioned like Paul was, what would keep you going?
 
-Paul says, "we are to God the fragrance of Christ among those who are being saved and among those who are perishing" (v. 15); so he went on speaking "as of sincerity, but as from God, … in the sight of God in Christ" (v. 17).
+When Paul preached the gospel, some accepted it and some rejected it. He says, "we are to God the fragrance of Christ among those who are being saved and among those who are perishing" (v. 15); so he went on speaking "as of sincerity, but as from God, … in the sight of God in Christ" (v. 17).
 
 ---
 
